@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My Blog"
+title = "OSINTEL Project"
 theme = "mero"
 disableKinds = ["taxonomyTerm"]
 
