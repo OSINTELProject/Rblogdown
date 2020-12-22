@@ -1,9 +1,5 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 +++
+
 title = "Rblogdown Setup"
 date = "2020-12-21"
 tags = ["R"]
