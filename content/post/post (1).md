@@ -1,17 +1,13 @@
----
-categories:
-- Hugo
-date: "2019-05-10"
-description: A brief summary for the post 1. And this is slightly longer than the
-  others. And this one also has three sentences. Nevermind, this one actually has
-  four sentences.
-mainImage: images/post1/post1_skyline.jpeg
-mainImageCaption: Awesome Caption *Here*
-mainImageThumbnail: images/post1/post1_skyline_tn.jpeg
-tags:
-- tutorial
-title: Create new hugo theme
----
++++
+title = "Create new hugo theme"
+date = "2019-05-10"
+tags = ["tutorial"]
+categories = ["Hugo"]
+description = "A brief summary for the post 1. And this is slightly longer than the others. And this one also has three sentences. Nevermind, this one actually has four sentences."
+mainImage = "images/post1/post1_skyline.jpeg"
+mainImageThumbnail = "images/post1/post1_skyline_tn.jpeg"
+mainImageCaption = "Awesome Caption *Here*"
++++
 
 The `hugo new theme` command will scaffold the beginnings of a new theme for you to get you on your way.
 

@@ -17,7 +17,7 @@
         <ul class="list-unstyled">
           {{ range .Site.Sections.ByWeight }}
           {{ $thisSection := replace (replace .File.Dir "\\" "") "/" "" }}
-          {{ if not (in (slice "alltaxa" "archive") $thisSection) }}
+          {{ if not (in (slice "alltags" "archive") $thisSection) }}
           <li class="pt-2">
             <a href="{{ .Permalink }}">{{ .Title }}</a>
           </li>
@@ -28,8 +28,8 @@
     </div>
     <div class="menu-item border border-warning bg-dark p-2">
       <a
-        href="{{ `/alltaxa/` | relURL }}"
-        ><span>Taxa</span>
+        href="{{ `/alltags/` | relURL }}"
+        ><span>Tags</span>
       </a>
     </div>
     <div class="menu-item border border-warning bg-dark p-2"

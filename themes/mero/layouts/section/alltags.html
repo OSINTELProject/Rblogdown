@@ -1,0 +1,4 @@
+{{ define "main" }}
+<h1 class="mt-4">All Tags</h1>
+{{ partial "tags" (dict "this" $.Site.Taxonomies "showAll" true "heading" "All Tags") }}
+{{ end }}

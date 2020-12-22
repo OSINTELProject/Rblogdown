@@ -1,6 +1,6 @@
 <div class="m-2 metadata overflow-hidden" style="max-height: 0px;">
   {{ if ne $.Kind "section" }}
-  <div class="metadata-value mb-1 taxa taxa-container-div list-sections">
+  <div class="metadata-value mb-1 tags tags-container-div list-sections">
     <div>
       Reading Time: {{ partial "readingtime" . }}      
     </div>
@@ -20,7 +20,7 @@
   {{ $params := .Params }}
   {{ range $name, $value := .Site.Taxonomies }}
   {{ if index $params $name }}
-  <div class="metadata-value mb-1 taxa taxa-container-div list-{{- $name -}}">
+  <div class="metadata-value mb-1 tags tags-container-div list-{{- $name -}}">
     {{ $name | humanize }}:
     {{ range index $params $name }}
     <a

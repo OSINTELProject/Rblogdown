@@ -35,4 +35,4 @@ disableKinds = ["taxonomyTerm"]
   url = "#"  
 
 [params.footer]
-  message = "OSINTEL Project | osintelproject@outlook.com"
+  message = "&copy; 2018 Name"
