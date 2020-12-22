@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://osintel.netlify.app/categories/category-2/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintel.netlify.app/daily-rundown/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintel.netlify.app/tags/ethiopia/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintel.netlify.app/daily-rundown/blog-2/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintel.netlify.app/tags/jason-burke/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintel.netlify.app/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://osintel.netlify.app/categories/category-1/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://osintel.netlify.app/categories/category-11/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintel.netlify.app/daily-rundown/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintel.netlify.app/daily-rundown/blog-2/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,11 +59,6 @@
   
   <url>
     <loc>https://osintel.netlify.app/musings/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintel.netlify.app/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
