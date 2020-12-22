@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://osintel.netlify.app/"
 languageCode = "en-us"
 title = "OSINTEL Project"
 theme = "mero"
