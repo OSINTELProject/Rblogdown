@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Rundown on OSINTEL Project</title>
+    <link>https://osintel.netlify.app/daily-rundown/</link>
+    <description>Recent content in Daily Rundown on OSINTEL Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://osintel.netlify.app/daily-rundown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Form</title>
+      <link>https://osintel.netlify.app/daily-rundown/blog-2/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/daily-rundown/blog-2/</guid>
+      <description>Long Form</description>
+    </item>
+    
+    <item>
+      <title>Soleimani</title>
+      <link>https://osintel.netlify.app/daily-rundown/blog-1/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/daily-rundown/blog-1/</guid>
+      <description>There is a new book out of on Qassam Soleimani by Arash Azizi. The Shadow Commander; Soleimani, the U.S., and Iran’s Global Ambitions I need to buy this and read it.
+Found interview here by Carnegie
+Okay this might be able to work okay, kinda sorta.</description>
+    </item>
+    
+  </channel>
+</rss>

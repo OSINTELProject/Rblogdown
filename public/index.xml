@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSINTEL Project</title>
+    <link>https://osintel.netlify.app/</link>
+    <description>Recent content on OSINTEL Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://osintel.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Form</title>
+      <link>https://osintel.netlify.app/daily-rundown/blog-2/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/daily-rundown/blog-2/</guid>
+      <description>Long Form</description>
+    </item>
+    
+    <item>
+      <title>Long Form</title>
+      <link>https://osintel.netlify.app/long-form/blog-2/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/long-form/blog-2/</guid>
+      <description>Long Form</description>
+    </item>
+    
+    <item>
+      <title>Long Form</title>
+      <link>https://osintel.netlify.app/musings/blog-2/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/musings/blog-2/</guid>
+      <description>Long Form</description>
+    </item>
+    
+    <item>
+      <title>Rblogdown Setup</title>
+      <link>https://osintel.netlify.app/musings/blog-1/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/musings/blog-1/</guid>
+      <description>Alright I finally was able to setup Rblogdown with something resembling a type that I wanted. The biggest problem I had was the inability to figure out a decent workflow of things.
+That&amp;rsquo;s the main way to get these things to all talk together. Here&amp;rsquo;s a helpful video tutorial of the setup. My biggest issue I had was with Hugo. They have a bunch of different themes but I didn&amp;rsquo;t like very many of them and I have no html, css, javascript or bootstrap experience.</description>
+    </item>
+    
+    <item>
+      <title>Soleimani</title>
+      <link>https://osintel.netlify.app/daily-rundown/blog-1/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/daily-rundown/blog-1/</guid>
+      <description>There is a new book out of on Qassam Soleimani by Arash Azizi. The Shadow Commander; Soleimani, the U.S., and Iran’s Global Ambitions I need to buy this and read it.
+Found interview here by Carnegie
+Okay this might be able to work okay, kinda sorta.</description>
+    </item>
+    
+    <item>
+      <title>Create new hugo theme</title>
+      <link>https://osintel.netlify.app/post/post-1/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/post/post-1/</guid>
+      <description>The hugo new theme command will scaffold the beginnings of a new theme for you to get you on your way.
+If you’re creating a theme with plans to share it on the Hugo Themes website please note the following: - If using inline styles you will need to use absolute URLs, for the linked assets to be served properly, e.g. &amp;lt;div style=&amp;quot;background: url(&#39;{{ &amp;quot;images/background.jpg&amp;quot; | absURL }}&#39;)&amp;quot;&amp;gt; - Make sure not to use a forward slash / in the beginning of a URL, because it will point to the host root.</description>
+    </item>
+    
+    <item>
+      <title>Title of the blog 1</title>
+      <link>https://osintel.netlify.app/long-form/blog-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/long-form/blog-1/</guid>
+      <description>This is a longform take on specific topics and issues.</description>
+    </item>
+    
+    <item>
+      <title>Title of the post 3</title>
+      <link>https://osintel.netlify.app/post/post-3/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/post/post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Title of the post 2</title>
+      <link>https://osintel.netlify.app/post/post-2/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/post/post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Title of the post 4</title>
+      <link>https://osintel.netlify.app/post/post-4/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/post/post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://osintel.netlify.app/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>https://osintel.netlify.app/about/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://osintel.netlify.app/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://osintel.netlify.app/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+    </item>
+    
+    <item>
+      <title>Longform Testing</title>
+      <link>https://osintel.netlify.app/longform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintel.netlify.app/longform/</guid>
+      <description>TEsting asdfasdf </description>
+    </item>
+    
+  </channel>
+</rss>
