@@ -1,6 +1,6 @@
 +++
 title = "Little America"
-date = "2021-1-2"
+date = "2021-01-02"
 tags = ["Finished Books", "Afghanistan"]
 categories = ["Category 2"]
 description = "New Year"
