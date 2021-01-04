@@ -7,7 +7,7 @@ description = "Workflow"
 
 +++
 
-Alright this is a test to see what its like to write in word and then copy over to markdown. Note this isn’t an export.[[1\]](#_ftn1) 
+Alright this is a test to see what its like to write in word and then copy over to markdown. Note this isn’t an export.^[[1\]](#_ftn1)^ 
 
 
 
