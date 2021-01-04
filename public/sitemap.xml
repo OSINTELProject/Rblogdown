@@ -3,175 +3,190 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://osintel.netlify.app/categories/category-2/</loc>
+    <loc>/tags/afghanistan/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/category-2/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/daily-rundown/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/finished-books/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/daily-rundown/blog-3/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ethiopia/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/daily-rundown/</loc>
+    <loc>/daily-rundown/blog-2/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/tags/ethiopia/</loc>
+    <loc>/tags/jason-burke/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/daily-rundown/blog-2/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintel.netlify.app/tags/jason-burke/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintel.netlify.app/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintel.netlify.app/categories/category-1/</loc>
+    <loc>/categories/category-1/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/categories/category-11/</loc>
+    <loc>/categories/category-11/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/long-form/</loc>
+    <loc>/long-form/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/long-form/blog-2/</loc>
+    <loc>/long-form/blog-2/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/musings/blog-2/</loc>
+    <loc>/musings/blog-2/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/musings/</loc>
+    <loc>/musings/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/tags/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/tags/random/</loc>
+    <loc>/tags/random/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/tags/random1/</loc>
+    <loc>/tags/random1/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/tags/random2/</loc>
+    <loc>/tags/random2/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/musings/blog-1/</loc>
+    <loc>/musings/blog-1/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/daily-rundown/blog-1/</loc>
+    <loc>/daily-rundown/blog-1/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/post/post-1/</loc>
+    <loc>/post/post-1/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/categories/hugo/</loc>
+    <loc>/categories/hugo/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/tags/tutorial/</loc>
+    <loc>/tags/tutorial/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/long-form/blog-1/</loc>
+    <loc>/long-form/blog-1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/post/post-3/</loc>
+    <loc>/post/post-3/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/post/post-2/</loc>
+    <loc>/post/post-2/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/post/post-4/</loc>
+    <loc>/post/post-4/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/archive/</loc>
+    <loc>/archive/</loc>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/longform/</loc>
+    <loc>/longform/</loc>
   </url>
   
   <url>
-    <loc>https://osintel.netlify.app/alltags/</loc>
+    <loc>/alltags/</loc>
   </url>
   
 </urlset>
