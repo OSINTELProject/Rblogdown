@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tags on OSINTEL Project</title>
-    <link>/alltags/</link>
+    <link>https://osintel.netlify.app/alltags/</link>
     <description>Recent content in tags on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/alltags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://osintel.netlify.app/alltags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
