@@ -6,7 +6,7 @@ disableKinds = ["taxonomyTerm"]
 
 [params]
   dateFormat = "2006-01-02" 
-  author = "OSINTEL Project"
+  author = "OSINT Project"
   description = "My awesome blog"
   mainImage = "images/main.jpeg"
 
