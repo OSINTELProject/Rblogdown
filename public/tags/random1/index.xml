@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>random1 on OSINTEL Project</title>
-    <link>https://osintel.netlify.app/tags/random1/</link>
+    <link>https://osintproject.netlify.app/tags/random1/</link>
     <description>Recent content in random1 on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://osintel.netlify.app/tags/random1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://osintproject.netlify.app/tags/random1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Long Form</title>
-      <link>https://osintel.netlify.app/long-form/blog-2/</link>
+      <link>https://osintproject.netlify.app/long-form/blog-2/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://osintel.netlify.app/long-form/blog-2/</guid>
+      <guid>https://osintproject.netlify.app/long-form/blog-2/</guid>
       <description>Long Form</description>
     </item>
     
     <item>
       <title>Long Form</title>
-      <link>https://osintel.netlify.app/musings/blog-2/</link>
+      <link>https://osintproject.netlify.app/musings/blog-2/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://osintel.netlify.app/musings/blog-2/</guid>
+      <guid>https://osintproject.netlify.app/musings/blog-2/</guid>
       <description>Long Form</description>
     </item>
     
     <item>
       <title>Title of the post 2</title>
-      <link>https://osintel.netlify.app/post/post-2/</link>
+      <link>https://osintproject.netlify.app/post/post-2/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://osintel.netlify.app/post/post-2/</guid>
+      <guid>https://osintproject.netlify.app/post/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
