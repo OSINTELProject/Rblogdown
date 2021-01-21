@@ -1,12 +1,4 @@
-
-
-
-
-
-
-
-
-# How to View a Source
++++
 
 title = "How to View a Source"
 date = "2021-01-20"
