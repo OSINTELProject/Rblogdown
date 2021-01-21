@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Long Form on OSINTEL Project</title>
-    <link>https://osintelproject.org/long-form/</link>
-    <description>Recent content in Long Form on OSINTEL Project</description>
+    <title>China on OSINTEL Project</title>
+    <link>https://osintelproject.org/tags/china/</link>
+    <description>Recent content in China on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/long-form/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Long Form</title>
-      <link>https://osintelproject.org/long-form/blog-2/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://osintelproject.org/long-form/blog-2/</guid>
-      <description>Long Form</description>
-    </item>
-    
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/tags/china/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emission Trading System Outlook</title>
       <link>https://osintelproject.org/long-form/blog-1/</link>
