@@ -63,74 +63,91 @@ Currently, in China, not many enterprises and investors have expressed a keen in
 
 Since the subsequent rise in emission trading systems after the post-Paris Accords, understanding their inner workings are vital to preventing the global temperature increase. While Emission Trading Systems have been proven as an effective policy in combatting climate change, the amount of management involved in maintaining the system is something that cannot be overlooked. Also, both the academic literature and current state of ETS systems primarily encompass OECD countries. As many of these emerging economies adopt an emission trading system, new challenges will need to be overcome. In the process of selecting a cap-and-trade system, both a developing economy and an emerging economy may face unique hardships. In addition to the incomplete development of financial markets and auctioning mechanisms within certain regions, something left unaddressed is a power imbalance between different governmental industries facilitating these exchanges.[[29\]](#_ftn29) Furthermore, with climate policy being a political process that requires an extended time frame of implementation, these policies could backfire. As this literature has shown, although this policy measure is not a perfect or the most effective policy measure for reducing global emissions, this system has proven to be the most politically viable policy due to the continual disregard of a carbon tax among opposition groups. The next five to ten years will be an exciting period because this is the make or break period we have finally reached. Either this global adoption of emission trading systems will take hold due to its rise in popularity (constructivist approach), or this policy will ultimately fail to prevent the global temperature increase of 1.5 degrees, and we will be in much greater peril as a human race. Being able to improve these as problems arise is the most needed avenue for future research. As long as there is the political will to fix these issues, emission trading systems will remain a viable mitigation policy. Lastly, it must be reminded that while carbon markets have been seen as the answer to combat climate change, they neglect the other 50% of the market, which is related to individual consumption. In addition to the required success of policy measures in combatting climate change, human consumption behaviors will need to change drastically in concert with these policy measures. 
 
- 
+------
 
- 
+[[1\]](#_ftnref1) William Pizer and Xiliang Zhang, “China’s New National Carbon Market”, *Nicholas Institute for Environmental Policy Solutions,* WP 18-01. (2018): 2. 
 
- 
+[[2\]](#_ftnref2) PMR & ICAP, “Emissions trading in practice: A handbook on design and implementation.” 2016.
 
- 
+[[3\]](#_ftnref3) See Appendix Figure 1
 
- 
+[[4\]](#_ftnref4) J. Kruger, W. E. Oates and W. A. Pizer, "Decentralization in the EU Emissions Trading Scheme and Lessons for Global Policy," *Review of Environmental Economics and Policy* 1, no. 1 (2007), 112-133. 
 
- 
+[[5\]](#_ftnref5) Williams et al, "The Initial Incidence of a Carbon Tax Across US States." *National Tax Journal* 67 (2014): 807-830.
 
- 
+[[6\]](#_ftnref6) Richard Schmalensee, "The Design of Environmental Markets," *Oxford Review of Economic Policy* 33, no. 4 (2017), 572-588.  
 
- 
+[[7\]](#_ftnref7) Frank Jotzo et al., "China's Emissions Trading Takes Steps Towards Big Ambitions," *Nature Climate Change* 8, no. 4 (2018), 265-267.
 
- 
+[[8\]](#_ftnref8) European Commission, “Report on the functioning of the European carbon market” (2017), 3-6. 
 
- 
+[[9\]](#_ftnref9) Ibid, 16-18. 
 
- 
+[[10\]](#_ftnref10) British Steel: EU Emissions Trading Scheme (EU ETS). 2019 . 
 
- 
+[[11\]](#_ftnref11) Guochang Fang et al., "How to Optimize the Development of Carbon Trading in China—Enlightenment from Evolution Rules of the EU Carbon Price," Applied Energy 211 (Feb 1, 2018), 1039-1049. doi:10.1016/j.apenergy.2017.12.001. https://www.sciencedirect.com/science/article/pii/S0306261917317117. 
 
- 
+[[12\]](#_ftnref12) Karsten Neuhoff et al., "Banking of Surplus Emissions Allowances: Does the Volume Matter?" *SSRN*, no. DIW Berlin Discussion Paper No. 1196 (March 8, 2012), 1-23.  
 
- 
+[[13\]](#_ftnref13) Sabine Fuss et al., "A Framework for Assessing the Performance of Cap-and-Trade Systems: Insights from the European Union Emissions Trading System," Review of Environmental Economics and Policy 12, no. 2 (Aug 1, 2018), 220-241. doi:10.1093/reep/rey010. 
 
- 
+[[14\]](#_ftnref14) Eugénie Joltreau and Katrin Sommerfeld, "Why does Emissions Trading Under the EU Emissions Trading System (ETS) Not Affect Firms' Competitiveness? Empirical Findings from the Literature," Climate Policy 19, no. 4 (Apr 21, 2019), 453-471. doi:10.1080/14693062.2018.1502145. http://www.tandfonline.com/doi/abs/10.1080/14693062.2018.1502145. 
 
- 
+[[15\]](#_ftnref15) European Commission (EC). “Report on the functioning of the European carbon market” 2003/87/EC; (January, 2017). 22.
 
- 
+[[16\]](#_ftnref16) Mengya Zhang, Yong Liu and Yunpeng Su, "Comparison of Carbon Emission Trading Schemes in the European Union and China," Climate 5, no. 3 (2017), 70.(Stoerk, Dudek, and Yang, "China’s National Carbon Emissions Trading Scheme: Lessons from the Pilot Emission Trading Schemes, Academic Literature, and Known Policy Details,"  478-79)
 
- 
+[[17\]](#_ftnref17)Pizer, William A., and Xiliang Zhang. 2018. “China’s New National Carbon Market.” *Duke Nicholas Institute WP* 18-01 2.
 
- 
+[[18\]](#_ftnref18) Qingqing Weng and He Xu, A Review of China’s Carbon Trading Market, Vol. 91, 2018), 613-619. doi://doi.org/10.1016/j.rser.2018.04.026. http://www.sciencedirect.com/science/article/pii/S1364032118302442. 
 
- 
+[[19\]](#_ftnref19) (NDRC 2017a)
 
- 
+[[20\]](#_ftnref20) Fang, "How to Optimize the Development of Carbon Trading in China—Enlightenment from Evolution Rules of the EU Carbon Price,", 1039-1049 
 
-Appendix
+[[21\]](#_ftnref21) Thomas Stoerk, Daniel J. Dudek and Jia Yang, "China’s National Carbon Emissions Trading Scheme: Lessons from the Pilot Emission Trading Schemes, Academic Literature, and Known Policy Details," Climate Policy 19, no. 4 (Apr 21, 2019), 472-486. doi:10.1080/14693062.2019.1568959. 
+
+[[22\]](#_ftnref22) Pizer, William A., and Xiliang Zhang. 2018. “China’s New National Carbon Market.” *Duke Nicholas Institute WP* 18-01 2. 
+
+[[23\]](#_ftnref23) NDRC 2017.
+
+[[24\]](#_ftnref24) Ren Cong and Alex Y. Lo, "Emission Trading and Carbon Market Performance in Shenzhen, China," Applied Energy 193 (May 1, 2017), 414-425. 
+
+[[25\]](#_ftnref25) Hyungna Oh,  Junwon Hyon and Jin-Oh Kim, "Korea’s Approach to Overcoming Difficulties  in Adopting the Emission Trading Scheme," Climate Policy 17, no. 8 (Nov  17, 2017), 947-961. doi:10.1080/14693062.2016.1213696. 
+
+[[26\]](#_ftnref26) PMR & ICAP, “Emissions trading in practice: A handbook on design and implementation.” 2016. 
+
+[[27\]](#_ftnref27) Feng Dong et al., "Can a Carbon Emission Trading Scheme Generate the Porter Effect? Evidence from Pilot Areas in China," Science of the Total Environment 653 (Feb 25, 2019), 574.  
+
+[[28\]](#_ftnref28) Feifei Li, Zhe Xu and Hui Ma, "Can China Achieve its CO2 Emissions Peak by 2030?" Ecological Indicators 84 (2018), 337, 339-340. 
+
+[[29\]](#_ftnref29) Oh, Hyon, and Kim, Korea’s Approach to Overcoming Difficulties in Adopting the Emission Trading Scheme," 947
+
+------
 
 
 
-​                                                                 
+
+<p align="center">Appendix</p>
+
+
+
+
+​                                                                
 
 ​          Figure     1 (PMR & ICAP, 2016).          
 
-![image-20210121160703058](C:\Users\ccerb\AppData\Roaming\Typora\typora-user-images\image-20210121160703058.png)
-
-
-   
+![asdf](https://c3iqqa.bn.files.1drv.com/y4mIM3x7TaN9bPm2_PaOl3U_ZWkasm5JUtIjcD5yGm7OZiTYM-Xzb2mnB1SycG1pI-w8sJ5cIvuhwdq9S_Y1Y-TEvP1O_U6nSf7fRLKwnTi9HVdfIXg0pSQd0tF2fp1qRtuR6b6AVs8dg67oFt-ehWZ-hrwT1GVJ-Gver66UUE_PGmqFnlxB-9oRTSu0j0QfQOQuJ9gu4-2vpxwv9M_LzWOCQ/image.png?psid=1)
 
 
 
- 
+
+i. It should be noted that a large limitation within this literature review is its ever changing nature of this topic. Within the next five years this review will be out of date and unable to provide a comprehensive overview of global developments.
 
  
 
- 
-
-i It should be noted that a large limitation within this literature review is its ever changing nature of this topic. Within the next five years this review will be out of date and unable to provide a comprehensive overview of global developments.
-
- 
-
-Bibliography
+<p align="center">Bibliography
+</p>
 
 *British Steel: E.U. Emissions Trading Scheme (EU ETS).* 1 May, 2019. https://www.gov.uk/government/speeches/british-steel-eu-emissions-trading-scheme-eu-ets-update 
 
@@ -223,68 +240,4 @@ Zhu, Bangzhu, Shunxin Ye, Dong Han, Ping Wang, Kaijian He, Yi-Ming Wei, and Rui 
 
 
 
-------
 
-[[1\]](#_ftnref1) William Pizer and Xiliang Zhang, “China’s New National Carbon Market”, *Nicholas Institute for Environmental Policy Solutions,* WP 18-01. (2018): 2. 
-
-[[2\]](#_ftnref2) PMR & ICAP, “Emissions trading in practice: A handbook on design and implementation.” 2016.
-
-[[3\]](#_ftnref3) See Appendix Figure 1
-
-[[4\]](#_ftnref4) J. Kruger, W. E. Oates and W. A. Pizer, "Decentralization in the EU Emissions Trading Scheme and Lessons for Global Policy," *Review of Environmental Economics and Policy* 1, no. 1 (2007), 112-133. 
-
-[[5\]](#_ftnref5) Williams et al, "The Initial Incidence of a Carbon Tax Across US States." *National Tax Journal* 67 (2014): 807-830.
-
-[[6\]](#_ftnref6) Richard Schmalensee, "The Design of Environmental Markets," *Oxford Review of Economic Policy* 33, no. 4 (2017), 572-588.  
-
-[[7\]](#_ftnref7) Frank Jotzo et al., "China's Emissions Trading Takes Steps Towards Big Ambitions," *Nature Climate Change* 8, no. 4 (2018), 265-267.
-
-[[8\]](#_ftnref8) European Commission, “Report on the functioning of the European carbon market” (2017), 3-6. 
-
-[[9\]](#_ftnref9) Ibid, 16-18. 
-
-[[10\]](#_ftnref10) British Steel: EU Emissions Trading Scheme (EU ETS). 2019 . 
-
-[[11\]](#_ftnref11) Guochang Fang et al., "How to Optimize the Development of Carbon Trading in China—Enlightenment from Evolution Rules of the EU Carbon Price," Applied Energy 211 (Feb 1, 2018), 1039-1049. doi:10.1016/j.apenergy.2017.12.001. https://www.sciencedirect.com/science/article/pii/S0306261917317117. 
-
-[[12\]](#_ftnref12) Karsten Neuhoff et al., "Banking of Surplus Emissions Allowances: Does the Volume Matter?" *SSRN*, no. DIW Berlin Discussion Paper No. 1196 (March 8, 2012), 1-23.  
-
-[[13\]](#_ftnref13) Sabine Fuss et al., "A Framework for Assessing the Performance of Cap-and-Trade Systems: Insights from the European Union Emissions Trading System," Review of Environmental Economics and Policy 12, no. 2 (Aug 1, 2018), 220-241. doi:10.1093/reep/rey010. 
-
-[[14\]](#_ftnref14) Eugénie Joltreau and Katrin Sommerfeld, "Why does Emissions Trading Under the EU Emissions Trading System (ETS) Not Affect Firms' Competitiveness? Empirical Findings from the Literature," Climate Policy 19, no. 4 (Apr 21, 2019), 453-471. doi:10.1080/14693062.2018.1502145. http://www.tandfonline.com/doi/abs/10.1080/14693062.2018.1502145. 
-
-[[15\]](#_ftnref15) European Commission (EC). “Report on the functioning of the European carbon market” 2003/87/EC; (January, 2017). 22.
-
-[[16\]](#_ftnref16) Mengya Zhang, Yong Liu and Yunpeng Su, "Comparison of Carbon Emission Trading Schemes in the European Union and China," Climate 5, no. 3 (2017), 70.(Stoerk, Dudek, and Yang, "China’s National Carbon Emissions Trading Scheme: Lessons from the Pilot Emission Trading Schemes, Academic Literature, and Known Policy Details,"  478-79)
-
-[[17\]](#_ftnref17)Pizer, William A., and Xiliang Zhang. 2018. “China’s New National Carbon Market.” *Duke Nicholas Institute WP* 18-01 2.
-
-[[18\]](#_ftnref18) Qingqing Weng and He Xu, A Review of China’s Carbon Trading Market, Vol. 91, 2018), 613-619. doi://doi.org/10.1016/j.rser.2018.04.026. http://www.sciencedirect.com/science/article/pii/S1364032118302442. 
-
-[[19\]](#_ftnref19) (NDRC 2017a)
-
-[[20\]](#_ftnref20) Fang, "How to Optimize the Development of Carbon Trading in China—Enlightenment from Evolution Rules of the EU Carbon Price,", 1039-1049 
-
-[[21\]](#_ftnref21) Thomas Stoerk, Daniel J. Dudek and Jia Yang, "China’s National Carbon Emissions Trading Scheme: Lessons from the Pilot Emission Trading Schemes, Academic Literature, and Known Policy Details," Climate Policy 19, no. 4 (Apr 21, 2019), 472-486. doi:10.1080/14693062.2019.1568959. 
-
-[[22\]](#_ftnref22) Pizer, William A., and Xiliang Zhang. 2018. “China’s New National Carbon Market.” *Duke Nicholas Institute WP* 18-01 2. 
-
-[[23\]](#_ftnref23) NDRC 2017.
-
-[[24\]](#_ftnref24) Ren Cong and Alex Y. Lo, "Emission Trading and Carbon Market Performance in Shenzhen, China," Applied Energy 193 (May 1, 2017), 414-425. 
-
-[[25\]](#_ftnref25) Hyungna Oh,  Junwon Hyon and Jin-Oh Kim, "Korea’s Approach to Overcoming Difficulties  in Adopting the Emission Trading Scheme," Climate Policy 17, no. 8 (Nov  17, 2017), 947-961. doi:10.1080/14693062.2016.1213696. 
-
-[[26\]](#_ftnref26) PMR & ICAP, “Emissions trading in practice: A handbook on design and implementation.” 2016. 
-
-[[27\]](#_ftnref27) Feng Dong et al., "Can a Carbon Emission Trading Scheme Generate the Porter Effect? Evidence from Pilot Areas in China," Science of the Total Environment 653 (Feb 25, 2019), 574.  
-
-[[28\]](#_ftnref28) Feifei Li, Zhe Xu and Hui Ma, "Can China Achieve its CO2 Emissions Peak by 2030?" Ecological Indicators 84 (2018), 337, 339-340. 
-
-[[29\]](#_ftnref29) Oh, Hyon, and Kim, Korea’s Approach to Overcoming Difficulties in Adopting the Emission Trading Scheme," 947
-
-
-
-------
-
- 
