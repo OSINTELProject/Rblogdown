@@ -127,21 +127,11 @@ Since the subsequent rise in emission trading systems after the post-Paris Accor
 ------
 
 
-
-
 <p align="center">Appendix</p>
-
-
-​                             
 
 ​          Figure     1 (PMR & ICAP, 2016).        
 
-<center>
-	<img src="https://c3iqqa.bn.files.1drv.com/y4mIM3x7TaN9bPm2_PaOl3U_ZWkasm5JUtIjcD5yGm7OZiTYM-Xzb2mnB1SycG1pI-w8sJ5cIvuhwdq9S_Y1Y-TEvP1O_U6nSf7fRLKwnTi9HVdfIXg0pSQd0tF2fp1qRtuR6b6AVs8dg67oFt-ehWZ-hrwT1GVJ-Gver66UUE_PGmqFnlxB-9oRTSu0j0QfQOQuJ9gu4-2vpxwv9M_LzWOCQ/image.png?psid=1"> </img>
-</center>
-
-
-
+![image](https://c3iqqa.bn.files.1drv.com/y4mIM3x7TaN9bPm2_PaOl3U_ZWkasm5JUtIjcD5yGm7OZiTYM-Xzb2mnB1SycG1pI-w8sJ5cIvuhwdq9S_Y1Y-TEvP1O_U6nSf7fRLKwnTi9HVdfIXg0pSQd0tF2fp1qRtuR6b6AVs8dg67oFt-ehWZ-hrwT1GVJ-Gver66UUE_PGmqFnlxB-9oRTSu0j0QfQOQuJ9gu4-2vpxwv9M_LzWOCQ/image.png?psid=1)
 
 
 
