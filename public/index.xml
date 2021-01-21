@@ -2,45 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OSINTEL Project</title>
-    <link>https://osintproject.netlify.app/</link>
+    <link>https://osintelproject.org/</link>
     <description>Recent content on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintproject.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to View a Source</title>
+      <link>https://osintelproject.org/daily-rundown/blog-8/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintelproject.org/daily-rundown/blog-8/</guid>
+      <description>Rules of Thumb: Every source is suspect. No source will ever be completely factually correct no matter who its author. A great deal of skepticism is needed when analyzing and evaluating new information.
+What is the publishing history of the author of the source?
+What is the motive to release or publish this source?
+What platform is this source on?
+Are the sources named or unnamed? What does the bibliography look like?</description>
+    </item>
+    
     <item>
       <title>First Sourcing Test</title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-7/</link>
+      <link>https://osintelproject.org/daily-rundown/blog-7/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-7/</guid>
+      <guid>https://osintelproject.org/daily-rundown/blog-7/</guid>
       <description>This is a the first test to try and reference the article I am responding to. I never trust the article to be available or viewable to everyone because of paywalls. There are a number of options for doing this and from my opinion the best would be the markdown or pdf approach. Relying on archive.org is also possible but from what I&amp;rsquo;ve seen that sometimes can fall through so in all possibilities I will try to provide the source I am referencing in the markdown format and at the bottom of the article is the web url.</description>
     </item>
     
     <item>
       <title>Operation Lyautey</title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-6/</link>
+      <link>https://osintelproject.org/daily-rundown/blog-6/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-6/</guid>
+      <guid>https://osintelproject.org/daily-rundown/blog-6/</guid>
       <description>I&amp;rsquo;ve found something of interest to my studies of counterinsurgency and this is somewhat tangentially related. So Hubert Lyautey is the father of French counter-insurgency doctrine and practice today. Very checkered history that depends implicitly on the reader&amp;rsquo;s biases for understanding his impact today. More than just &amp;lsquo;bad&amp;rsquo; as critics of imperialism will no doubt designate him but had interesting ideas of small wars and intelligence. With him you have to take the bad before you attempt to use him for today.</description>
     </item>
     
     <item>
       <title>Testing Word</title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-5/</link>
+      <link>https://osintelproject.org/daily-rundown/blog-5/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-5/</guid>
+      <guid>https://osintelproject.org/daily-rundown/blog-5/</guid>
       <description>Alright this is a test to see what its like to write in word and then copy over to markdown. Note this isn’t an export.[1]
  [1] Jessica Watkins, “Iran in Iraq: The Limits of ‘Smart Power’ amidst Public Protest,” Monograph (London, UK: LSE Middle East Centre, July 2020), http://eprints.lse.ac.uk/105768/.</description>
     </item>
     
     <item>
       <title>Iran&#39;s Drive for Bargaining Power</title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-4/</link>
+      <link>https://osintelproject.org/daily-rundown/blog-4/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-4/</guid>
+      <guid>https://osintelproject.org/daily-rundown/blog-4/</guid>
       <description>Iran is reportedly enriching their uranium yields back to 20% to its prior negotiating level before the JCPOA deal brought back their levels to internally agreed upon numbers. Reuters picked this up as well as the source seems to be coming from the Russian envoy (Mikhail Ulyanov) to IAEA.
 Now this information is interesting for a few reasons.
  Back in July 2019 it was reported that Iran was increasing its lowgrade stockpile and hedging its bets for Trump&amp;rsquo;s re-election.</description>
@@ -48,57 +61,57 @@ Now this information is interesting for a few reasons.
     
     <item>
       <title>Little America</title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-3/</link>
+      <link>https://osintelproject.org/daily-rundown/blog-3/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-3/</guid>
+      <guid>https://osintelproject.org/daily-rundown/blog-3/</guid>
       <description>Alright so this a new year and I&amp;rsquo;m going to try to become much more accountable towards my daily writing endeavors.
 I just finished Rajiv Chandrasekaran&amp;rsquo;s book Little America. I&amp;rsquo;ve previously read his Life in the Emerald City about his reporting in Iraq. There are few reporters in my opinion that can do what he can and the importance of both of these two books will stand the test of time to later be used by historians in the ensuing years.</description>
     </item>
     
     <item>
       <title>Ethiopian Tigray Insurgency</title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-2/</link>
+      <link>https://osintelproject.org/daily-rundown/blog-2/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-2/</guid>
+      <guid>https://osintelproject.org/daily-rundown/blog-2/</guid>
       <description>So this year was a difficult year for all countries throughout the world dealing with covid and its socio-political implications. The issues in Ethiopia are much more complex than I can understand to any great degree. The one thing which is striking is how the international community view reformers to previous war-torn countries. They eat this shit up for breakfast. The new Ethiopian prime minister had a background in intelligence during the Eritrea-Ethiopian war.</description>
     </item>
     
     <item>
       <title>Long Form</title>
-      <link>https://osintproject.netlify.app/long-form/blog-2/</link>
+      <link>https://osintelproject.org/long-form/blog-2/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/long-form/blog-2/</guid>
+      <guid>https://osintelproject.org/long-form/blog-2/</guid>
       <description>Long Form</description>
     </item>
     
     <item>
       <title>Long Form</title>
-      <link>https://osintproject.netlify.app/musings/blog-2/</link>
+      <link>https://osintelproject.org/musings/blog-2/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/musings/blog-2/</guid>
+      <guid>https://osintelproject.org/musings/blog-2/</guid>
       <description>Long Form</description>
     </item>
     
     <item>
       <title>Rblogdown Setup</title>
-      <link>https://osintproject.netlify.app/musings/blog-1/</link>
+      <link>https://osintelproject.org/musings/blog-1/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/musings/blog-1/</guid>
+      <guid>https://osintelproject.org/musings/blog-1/</guid>
       <description>Alright I finally was able to setup Rblogdown with something resembling a type that I wanted. The biggest problem I had was the inability to figure out a decent workflow of things.
 That&amp;rsquo;s the main way to get these things to all talk together. Here&amp;rsquo;s a helpful video tutorial of the setup. My biggest issue I had was with Hugo. They have a bunch of different themes but I didn&amp;rsquo;t like very many of them and I have no html, css, javascript or bootstrap experience.</description>
     </item>
     
     <item>
       <title>Soleimani</title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-1/</link>
+      <link>https://osintelproject.org/daily-rundown/blog-1/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-1/</guid>
+      <guid>https://osintelproject.org/daily-rundown/blog-1/</guid>
       <description>There is a new book out of on Qassam Soleimani by Arash Azizi. The Shadow Commander; Soleimani, the U.S., and Iran’s Global Ambitions I need to buy this and read it.
 Found interview here by Carnegie
 Okay this might be able to work okay, kinda sorta. Add this</description>
@@ -106,88 +119,76 @@ Okay this might be able to work okay, kinda sorta. Add this</description>
     
     <item>
       <title>Create new hugo theme</title>
-      <link>https://osintproject.netlify.app/post/post-1/</link>
+      <link>https://osintelproject.org/post/post-1/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/post/post-1/</guid>
+      <guid>https://osintelproject.org/post/post-1/</guid>
       <description>The hugo new theme command will scaffold the beginnings of a new theme for you to get you on your way.
 If you’re creating a theme with plans to share it on the Hugo Themes website please note the following: - If using inline styles you will need to use absolute URLs, for the linked assets to be served properly, e.g. &amp;lt;div style=&amp;quot;background: url(&#39;{{ &amp;quot;images/background.jpg&amp;quot; | absURL }}&#39;)&amp;quot;&amp;gt; - Make sure not to use a forward slash / in the beginning of a URL, because it will point to the host root.</description>
     </item>
     
     <item>
       <title>Title of the blog 1</title>
-      <link>https://osintproject.netlify.app/long-form/blog-1/</link>
+      <link>https://osintelproject.org/long-form/blog-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/long-form/blog-1/</guid>
+      <guid>https://osintelproject.org/long-form/blog-1/</guid>
       <description>This is a longform take on specific topics and issues.</description>
     </item>
     
     <item>
       <title>Title of the post 3</title>
-      <link>https://osintproject.netlify.app/post/post-3/</link>
+      <link>https://osintelproject.org/post/post-3/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/post/post-3/</guid>
+      <guid>https://osintelproject.org/post/post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Title of the post 2</title>
-      <link>https://osintproject.netlify.app/post/post-2/</link>
+      <link>https://osintelproject.org/post/post-2/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/post/post-2/</guid>
+      <guid>https://osintelproject.org/post/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Title of the post 4</title>
-      <link>https://osintproject.netlify.app/post/post-4/</link>
+      <link>https://osintelproject.org/post/post-4/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/post/post-4/</guid>
+      <guid>https://osintelproject.org/post/post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://osintproject.netlify.app/about/</link>
+      <link>https://osintelproject.org/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://osintproject.netlify.app/about/</guid>
+      <guid>https://osintelproject.org/about/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://osintproject.netlify.app/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://osintelproject.org/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://osintproject.netlify.app/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://osintelproject.org/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-8/</guid>
-      <description>How to View a Source title = &amp;ldquo;How to View a Source&amp;rdquo; date = &amp;ldquo;2021-01-20&amp;rdquo; tags = [&amp;ldquo;Sourcing&amp;rdquo;, &amp;ldquo;News&amp;rdquo;, &amp;ldquo;Bias&amp;rdquo;, &amp;ldquo;Research&amp;rdquo;] categories = [&amp;ldquo;Category 3&amp;rdquo;] description = &amp;ldquo;Source Evalutation&amp;rdquo;
-+++
-Rules of Thumb: Every source is suspect. No source will ever be completely factually correct no matter who its author. A great deal of skepticism is needed when analyzing and evaluating new information.
-What is the publishing history of the author of the source?</description>
-    </item>
-    
-    <item>
       <title>Longform Testing</title>
-      <link>https://osintproject.netlify.app/longform/</link>
+      <link>https://osintelproject.org/longform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/longform/</guid>
+      <guid>https://osintelproject.org/longform/</guid>
       <description>TEsting asdfasdf </description>
     </item>
     

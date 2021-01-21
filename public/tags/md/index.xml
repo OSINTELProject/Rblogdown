@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MD on OSINTEL Project</title>
-    <link>https://osintproject.netlify.app/tags/md/</link>
+    <link>https://osintelproject.org/tags/md/</link>
     <description>Recent content in MD on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintproject.netlify.app/tags/md/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/tags/md/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Sourcing Test</title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-7/</link>
+      <link>https://osintelproject.org/daily-rundown/blog-7/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-7/</guid>
+      <guid>https://osintelproject.org/daily-rundown/blog-7/</guid>
       <description>This is a the first test to try and reference the article I am responding to. I never trust the article to be available or viewable to everyone because of paywalls. There are a number of options for doing this and from my opinion the best would be the markdown or pdf approach. Relying on archive.org is also possible but from what I&amp;rsquo;ve seen that sometimes can fall through so in all possibilities I will try to provide the source I am referencing in the markdown format and at the bottom of the article is the web url.</description>
     </item>
     

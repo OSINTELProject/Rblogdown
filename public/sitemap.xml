@@ -3,269 +3,290 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://osintproject.netlify.app/categories/category-3/</loc>
+    <loc>https://osintelproject.org/tags/bias/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/categories/category-3/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/daily-rundown/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/daily-rundown/blog-8/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/tags/news/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/tags/research/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/tags/sourcing/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/daily-rundown/blog-7/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/</loc>
+    <loc>https://osintelproject.org/tags/md/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/blog-7/</loc>
+    <loc>https://osintelproject.org/tags/test/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/md/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintproject.netlify.app/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintproject.netlify.app/tags/test/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintproject.netlify.app/tags/julius-mader/</loc>
+    <loc>https://osintelproject.org/tags/julius-mader/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/blog-6/</loc>
+    <loc>https://osintelproject.org/daily-rundown/blog-6/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/paul-maddrell/</loc>
+    <loc>https://osintelproject.org/tags/paul-maddrell/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/sis/</loc>
+    <loc>https://osintelproject.org/tags/sis/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/msword/</loc>
+    <loc>https://osintelproject.org/tags/msword/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/blog-5/</loc>
+    <loc>https://osintelproject.org/daily-rundown/blog-5/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/writing/</loc>
+    <loc>https://osintelproject.org/tags/writing/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/zotero/</loc>
+    <loc>https://osintelproject.org/tags/zotero/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/ir/</loc>
+    <loc>https://osintelproject.org/tags/ir/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/blog-4/</loc>
+    <loc>https://osintelproject.org/daily-rundown/blog-4/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/us-iran/</loc>
+    <loc>https://osintelproject.org/tags/us-iran/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/afghanistan/</loc>
+    <loc>https://osintelproject.org/tags/afghanistan/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/categories/category-2/</loc>
+    <loc>https://osintelproject.org/categories/category-2/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/finished-books/</loc>
+    <loc>https://osintelproject.org/tags/finished-books/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/blog-3/</loc>
+    <loc>https://osintelproject.org/daily-rundown/blog-3/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/ethiopia/</loc>
+    <loc>https://osintelproject.org/tags/ethiopia/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/blog-2/</loc>
+    <loc>https://osintelproject.org/daily-rundown/blog-2/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/jason-burke/</loc>
+    <loc>https://osintelproject.org/tags/jason-burke/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/categories/category-1/</loc>
+    <loc>https://osintelproject.org/categories/category-1/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/categories/category-11/</loc>
+    <loc>https://osintelproject.org/categories/category-11/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/long-form/</loc>
+    <loc>https://osintelproject.org/long-form/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/long-form/blog-2/</loc>
+    <loc>https://osintelproject.org/long-form/blog-2/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/musings/blog-2/</loc>
+    <loc>https://osintelproject.org/musings/blog-2/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/musings/</loc>
+    <loc>https://osintelproject.org/musings/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/r/</loc>
+    <loc>https://osintelproject.org/tags/r/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/random/</loc>
+    <loc>https://osintelproject.org/tags/random/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/random1/</loc>
+    <loc>https://osintelproject.org/tags/random1/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/random2/</loc>
+    <loc>https://osintelproject.org/tags/random2/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/musings/blog-1/</loc>
+    <loc>https://osintelproject.org/musings/blog-1/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/blog-1/</loc>
+    <loc>https://osintelproject.org/daily-rundown/blog-1/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/post/post-1/</loc>
+    <loc>https://osintelproject.org/post/post-1/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/categories/hugo/</loc>
+    <loc>https://osintelproject.org/categories/hugo/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/post/</loc>
+    <loc>https://osintelproject.org/post/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/tutorial/</loc>
+    <loc>https://osintelproject.org/tags/tutorial/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/long-form/blog-1/</loc>
+    <loc>https://osintelproject.org/long-form/blog-1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/post/post-3/</loc>
+    <loc>https://osintelproject.org/post/post-3/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/post/post-2/</loc>
+    <loc>https://osintelproject.org/post/post-2/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/post/post-4/</loc>
+    <loc>https://osintelproject.org/post/post-4/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/about/</loc>
+    <loc>https://osintelproject.org/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://osintelproject.org/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/plot/</loc>
+    <loc>https://osintelproject.org/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/categories/r/</loc>
+    <loc>https://osintelproject.org/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/r-markdown/</loc>
+    <loc>https://osintelproject.org/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/tags/regression/</loc>
+    <loc>https://osintelproject.org/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/blog-8/</loc>
+    <loc>https://osintelproject.org/archive/</loc>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/archive/</loc>
+    <loc>https://osintelproject.org/longform/</loc>
   </url>
   
   <url>
-    <loc>https://osintproject.netlify.app/longform/</loc>
-  </url>
-  
-  <url>
-    <loc>https://osintproject.netlify.app/alltags/</loc>
+    <loc>https://osintelproject.org/alltags/</loc>
   </url>
   
 </urlset>

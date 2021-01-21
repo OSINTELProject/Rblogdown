@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MSWord on OSINTEL Project</title>
-    <link>https://osintproject.netlify.app/tags/msword/</link>
+    <link>https://osintelproject.org/tags/msword/</link>
     <description>Recent content in MSWord on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintproject.netlify.app/tags/msword/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/tags/msword/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testing Word</title>
-      <link>https://osintproject.netlify.app/daily-rundown/blog-5/</link>
+      <link>https://osintelproject.org/daily-rundown/blog-5/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://osintproject.netlify.app/daily-rundown/blog-5/</guid>
+      <guid>https://osintelproject.org/daily-rundown/blog-5/</guid>
       <description>Alright this is a test to see what its like to write in word and then copy over to markdown. Note this isn’t an export.[1]
  [1] Jessica Watkins, “Iran in Iraq: The Limits of ‘Smart Power’ amidst Public Protest,” Monograph (London, UK: LSE Middle East Centre, July 2020), http://eprints.lse.ac.uk/105768/.</description>
     </item>

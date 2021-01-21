@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archive on OSINTEL Project</title>
-    <link>https://osintproject.netlify.app/archive/</link>
+    <link>https://osintelproject.org/archive/</link>
     <description>Recent content in Archive on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://osintproject.netlify.app/archive/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://osintelproject.org/archive/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

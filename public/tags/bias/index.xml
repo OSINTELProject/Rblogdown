@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bias on OSINTEL Project</title>
+    <link>https://osintelproject.org/tags/bias/</link>
+    <description>Recent content in Bias on OSINTEL Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/tags/bias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to View a Source</title>
+      <link>https://osintelproject.org/daily-rundown/blog-8/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintelproject.org/daily-rundown/blog-8/</guid>
+      <description>Rules of Thumb: Every source is suspect. No source will ever be completely factually correct no matter who its author. A great deal of skepticism is needed when analyzing and evaluating new information.
+What is the publishing history of the author of the source?
+What is the motive to release or publish this source?
+What platform is this source on?
+Are the sources named or unnamed? What does the bibliography look like?</description>
+    </item>
+    
+  </channel>
+</rss>
