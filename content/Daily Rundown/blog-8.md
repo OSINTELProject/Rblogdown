@@ -12,7 +12,7 @@ title = "How to View a Source"
 date = "2021-01-20"
 tags = ["Sourcing", "News", "Bias", "Research"]
 categories = ["Category 3"]
-description = "Source Evalutation"
+description = "Source Evaluation"
 
 +++
 
