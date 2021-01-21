@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://osintproject.netlify.app/daily-rundown/blog-7/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://osintproject.netlify.app/tags/md/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +29,6 @@
   
   <url>
     <loc>https://osintproject.netlify.app/tags/test/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintproject.netlify.app/daily-rundown/blog-7/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -250,6 +250,10 @@
   <url>
     <loc>https://osintproject.netlify.app/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintproject.netlify.app/daily-rundown/blog-8/</loc>
   </url>
   
   <url>

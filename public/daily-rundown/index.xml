@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintproject.netlify.app/daily-rundown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Workflow Sourcing Test</title>
+      <title>First Sourcing Test</title>
       <link>https://osintproject.netlify.app/daily-rundown/blog-7/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://osintproject.netlify.app/daily-rundown/blog-7/</guid>
-      <description>This is a test to reference a news article. I never trust the article to be available or viewable to everyone because of paywalls.</description>
+      <description>This is a the first test to try and reference the article I am responding to. I never trust the article to be available or viewable to everyone because of paywalls. There are a number of options for doing this and from my opinion the best would be the markdown or pdf approach. Relying on archive.org is also possible but from what I&amp;rsquo;ve seen that sometimes can fall through so in all possibilities I will try to provide the source I am referencing in the markdown format and at the bottom of the article is the web url.</description>
     </item>
     
     <item>
@@ -74,6 +74,18 @@ I just finished Rajiv Chandrasekaran&amp;rsquo;s book Little America. I&amp;rsqu
       <description>There is a new book out of on Qassam Soleimani by Arash Azizi. The Shadow Commander; Soleimani, the U.S., and Iran’s Global Ambitions I need to buy this and read it.
 Found interview here by Carnegie
 Okay this might be able to work okay, kinda sorta. Add this</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://osintproject.netlify.app/daily-rundown/blog-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintproject.netlify.app/daily-rundown/blog-8/</guid>
+      <description>How to View a Source title = &amp;ldquo;How to View a Source&amp;rdquo; date = &amp;ldquo;2021-01-20&amp;rdquo; tags = [&amp;ldquo;Sourcing&amp;rdquo;, &amp;ldquo;News&amp;rdquo;, &amp;ldquo;Bias&amp;rdquo;, &amp;ldquo;Research&amp;rdquo;] categories = [&amp;ldquo;Category 3&amp;rdquo;] description = &amp;ldquo;Source Evalutation&amp;rdquo;
++++
+Rules of Thumb: Every source is suspect. No source will ever be completely factually correct no matter who its author. A great deal of skepticism is needed when analyzing and evaluating new information.
+What is the publishing history of the author of the source?</description>
     </item>
     
   </channel>
