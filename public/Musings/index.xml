@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/musings/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Long Form</title>
-      <link>https://osintelproject.org/musings/blog-2/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://osintelproject.org/musings/blog-2/</guid>
-      <description>Long Form</description>
-    </item>
-    
-    <item>
       <title>Rblogdown Setup</title>
       <link>https://osintelproject.org/musings/blog-1/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
@@ -24,6 +15,24 @@
       <guid>https://osintelproject.org/musings/blog-1/</guid>
       <description>Alright I finally was able to setup Rblogdown with something resembling a type that I wanted. The biggest problem I had was the inability to figure out a decent workflow of things.
 That&amp;rsquo;s the main way to get these things to all talk together. Here&amp;rsquo;s a helpful video tutorial of the setup. My biggest issue I had was with Hugo. They have a bunch of different themes but I didn&amp;rsquo;t like very many of them and I have no html, css, javascript or bootstrap experience.</description>
+    </item>
+    
+    <item>
+      <title>Reflections on Drone Strikes</title>
+      <link>https://osintelproject.org/musings/reflection-on-drone-strikes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintelproject.org/musings/reflection-on-drone-strikes/</guid>
+      <description>Most people don&amp;rsquo;t give a shit. It&amp;rsquo;s out of sight, out of mind. There is also not much else to do besides monitoring if you are a civilian. Most people decry drone strikes without actual information and simply see it as an extrajudicial killing or assassination and go about their lives. There is a very specific type of outlet which actually monitors these strikes, and much of it is done on Twitter.</description>
+    </item>
+    
+    <item>
+      <title>What is Montogmery McFate up to these days?</title>
+      <link>https://osintelproject.org/musings/blog-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintelproject.org/musings/blog-2/</guid>
+      <description>Background: Montgomery McFate is an anthropologist whose dissertation was on the case study of the British counterinsurgency of Northern Ireland (1969-1982). McFate then went on to RAND and the US Navy’s Office of Naval Research (ONR). This is all on her website. She was the co-creator of the Human Terrain System ,an outside fix of the United States military lack of cultural knowledge during the wars in Afghanistan and Iraq.</description>
     </item>
     
   </channel>

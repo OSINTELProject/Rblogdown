@@ -168,11 +168,6 @@
   </url>
   
   <url>
-    <loc>https://osintelproject.org/musings/blog-2/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://osintelproject.org/musings/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
@@ -292,11 +287,35 @@
   </url>
   
   <url>
+    <loc>https://osintelproject.org/tags/drones/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/tags/human-terrain-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/tags/irregular-warfare/</loc>
+  </url>
+  
+  <url>
     <loc>https://osintelproject.org/longform/</loc>
   </url>
   
   <url>
+    <loc>https://osintelproject.org/tags/rambling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/musings/reflection-on-drone-strikes/</loc>
+  </url>
+  
+  <url>
     <loc>https://osintelproject.org/alltags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/musings/blog-2/</loc>
   </url>
   
 </urlset>
