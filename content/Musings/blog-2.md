@@ -1,6 +1,6 @@
 +++
 title = "What is Montogmery McFate up to these days?"
-date = "2020-12-21"
+date = "2021-2-2"
 tags = ["Human Terrain System", "Irregular Warfare" "Rambling"]
 categories = ["Category 11"]
 description = "This is a question I would love to have answered. Reasons being, McFate encapsulates a guide to current policy of a US approach to irregular warfare."
