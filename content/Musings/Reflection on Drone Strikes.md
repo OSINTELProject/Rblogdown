@@ -1,7 +1,7 @@
 +++
 title = "Reflections on Drone Strikes"
 date = "2021-1-25"
-tags = ["Human Terrain System", "Irregular Warfare" "Rambling"]
+tags = ["Drones"]
 categories = ["Category 11"]
 description = "No one cares"
 
