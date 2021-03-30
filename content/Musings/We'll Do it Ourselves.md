@@ -1,6 +1,6 @@
 +++
 title = "Never mind, we'll do it ourselves "
-date = "2021-3-30"
+date = "2021-03-30"
 tags = ["Predator", "Irregular Warfare", "Drones"]
 categories = ["Category 66"]
 description = "Main gripe is error in book"
