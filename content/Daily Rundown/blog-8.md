@@ -22,7 +22,7 @@ Are the sources named or unnamed? What does the bibliography look like?
 
 Can I corroborate this source with knowledge I already know? 
 
-What kinds of cognitive biases do I need to be aware to not bias my vies and understanding of this information? The big one is confirmation bias, but there is a [whole chart of various behavioral biases](https://medium.com/better-humans/cognitive-bias-cheat-sheet-55a472476b18). 
+What kinds of cognitive biases do I need to be aware to not bias my views and understanding of this information? The big one is confirmation bias, but there is a [whole chart of various behavioral biases](https://medium.com/better-humans/cognitive-bias-cheat-sheet-55a472476b18). 
 
 ## General Daily News
 
