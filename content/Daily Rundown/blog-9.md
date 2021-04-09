@@ -57,3 +57,10 @@ For the past year or so I’ve been paying attention to this whole fiasco of nuc
 [See here for a decent repository of events for Iran in April.](https://www.globalsecurity.org/wmd/library/news/iran/2021/index_04.htm) Apologies on sourcing this but there wasn't any specific events highlighted within this post.  
 
 For a timeline of events I have some sources compiled [here](https://hackmd.io/m-mAdA5MRbGAkaXLDEqeRA) as well. 
+
+For recent things see Reuters [here](https://www.reuters.com/article/iran-nuclear-china-int/parties-to-iran-nuclear-talks-see-progress-despite-clash-on-sanctions-idUSKBN2BW17F), Juan Cole [here](https://www.juancole.com/2021/04/understand-indirect-chauvin.html, and John McLaughlin [here](https://www.thecipherbrief.com/column/cipher-brief-expert-view/on-nuclear-iran-and-north-korea-are-a-package-deal). 
+
+Juan Cole is a Middle East historian that was part of reconstruction efforts in Iraq post 2003 for the CPA. Generally, pretty left leaning but insightful in analysis. 
+
+McLaughlin was DCI for a couple months in 04 and now teaches at John Hopkins and writes for CipherBrief. CipherBrief is a retired spies mouthpiece. Basically where you go to pasture after politics forces an early exit or you retire due to old age. Information level of world  events is always high but motives for their views is always suspect. You also have to pay for premium stuff (paywalls are evil). 
+
