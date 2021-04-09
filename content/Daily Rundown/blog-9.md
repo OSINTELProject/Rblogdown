@@ -58,7 +58,7 @@ For the past year or so I’ve been paying attention to this whole fiasco of nuc
 
 For a timeline of events I have some sources compiled [here](https://hackmd.io/m-mAdA5MRbGAkaXLDEqeRA) as well. 
 
-For recent things see Reuters [here](https://www.reuters.com/article/iran-nuclear-china-int/parties-to-iran-nuclear-talks-see-progress-despite-clash-on-sanctions-idUSKBN2BW17F), Juan Cole [here](https://www.juancole.com/2021/04/understand-indirect-chauvin.html, and John McLaughlin [here](https://www.thecipherbrief.com/column/cipher-brief-expert-view/on-nuclear-iran-and-north-korea-are-a-package-deal). 
+For recent things see Reuters [here](https://www.reuters.com/article/iran-nuclear-china-int/parties-to-iran-nuclear-talks-see-progress-despite-clash-on-sanctions-idUSKBN2BW17F), Juan Cole [here](https://www.juancole.com/2021/04/understand-indirect-chauvin.html), and John McLaughlin [here](https://www.thecipherbrief.com/column/cipher-brief-expert-view/on-nuclear-iran-and-north-korea-are-a-package-deal). 
 
 Juan Cole is a Middle East historian that was part of reconstruction efforts in Iraq post 2003 for the CPA. Generally, pretty left leaning but insightful in analysis. 
 
