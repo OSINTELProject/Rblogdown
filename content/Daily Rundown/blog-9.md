@@ -1,12 +1,16 @@
++++
+
 title = "Nuclear Grandstanding"
 date = "2021-04-09"
 tags = ["Nukes", "News", "Iran", "US"]
 categories = ["Category 3"]
 description = "Source Evaluation"
 
++++
+
 For the past year or so I’ve been paying attention to this whole fiasco of nuclear grandstanding between the United States and Iran. 
 
-		Basic preliminary instances that brought us to things today.
+*Basic preliminary instances that brought us to things today.*
 
 2018
 
