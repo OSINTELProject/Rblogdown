@@ -6,7 +6,17 @@
     <description>Recent content in News on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuclear Discussions Continued</title>
+      <link>https://osintelproject.org/daily-rundown/blog-11/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintelproject.org/daily-rundown/blog-11/</guid>
+      <description>In the last post about these diplomatic talks, briefly mentioned was the Natanz blackout. The immediate sources claimed this was caused by a possible cyberattack by Israel.
+Since then the nature of the attack is much clearer and it was in fact an explosion on 10 April 2021. This explosion targeted the internal power supply of the enrichment facility and the Nytimes quoted US intelligence sources, which claimed that this explosion set back enrichment efforts 9 months and had Israeli involvement.</description>
+    </item>
+    
     <item>
       <title>Iran Cyberattack</title>
       <link>https://osintelproject.org/daily-rundown/blog-10/</link>
