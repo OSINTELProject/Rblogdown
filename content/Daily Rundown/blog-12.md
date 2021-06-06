@@ -1,6 +1,6 @@
 +++
 title = "Update for US/Iranian Diplomacy"
-date = "2021-6-6"
+date = "2021-06-06"
 tags = ["US", "Iran", "Diplomacy"]
 categories = ["Category 3"]
 description = "Long overdue update on global events impacting nuclear diplomacy."
