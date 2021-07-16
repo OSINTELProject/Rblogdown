@@ -6,7 +6,17 @@
     <description>Recent content in Daily Rundown on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/daily-rundown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/daily-rundown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick Hits</title>
+      <link>https://osintelproject.org/daily-rundown/blog-13/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintelproject.org/daily-rundown/blog-13/</guid>
+      <description>Interesting Iranian Op on US Soil
+So a few days ago the US DOJ just released an indictment of 4 Iranian individuals who conspired to kidnap or coerce Masih Alinejad an American-Iranian human rights activist to come back to Iran. The DOJ press release can be found here and the Masih’s account of the issue via the UAE news site The National is here. First case to my knowledge of something like this happening on US soil against a US citizen.</description>
+    </item>
+    
     <item>
       <title>Update for US/Iranian Diplomacy</title>
       <link>https://osintelproject.org/daily-rundown/blog-12/</link>
@@ -137,18 +147,6 @@ I just finished Rajiv Chandrasekaran&amp;rsquo;s book Little America. I&amp;rsqu
       <description>There is a new book out of on Qassam Soleimani by Arash Azizi. The Shadow Commander; Soleimani, the U.S., and Iran’s Global Ambitions I need to buy this and read it.
 Found interview here by Carnegie
 Okay this might be able to work okay, kinda sorta. Add this</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://osintelproject.org/daily-rundown/blog-13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://osintelproject.org/daily-rundown/blog-13/</guid>
-      <description>title = &amp;ldquo;Quick Hits&amp;rdquo; date = &amp;ldquo;2021-07-16&amp;rdquo; tags = [&amp;ldquo;US&amp;rdquo;, &amp;ldquo;Iran&amp;rdquo;, &amp;ldquo;Diplomacy&amp;rdquo;, &amp;ldquo;World News&amp;rdquo;] categories = [&amp;ldquo;Category 3&amp;rdquo;] description = &amp;ldquo;Quick update on global events impacting nuclear diplomacy.&amp;rdquo;
-+++
-Interesting Iranian Op on US Soil
-So a few days ago the US DOJ just released an indictment of 4 Iranian individuals who conspired to kidnap or coerce Masih Alinejad an American-Iranian human rights activist to come back to Iran. The DOJ press release can be found here and the Masih’s account of the issue via the UAE news site The National is here.</description>
     </item>
     
   </channel>

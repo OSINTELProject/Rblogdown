@@ -6,7 +6,17 @@
     <description>Recent content on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick Hits</title>
+      <link>https://osintelproject.org/daily-rundown/blog-13/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintelproject.org/daily-rundown/blog-13/</guid>
+      <description>Interesting Iranian Op on US Soil
+So a few days ago the US DOJ just released an indictment of 4 Iranian individuals who conspired to kidnap or coerce Masih Alinejad an American-Iranian human rights activist to come back to Iran. The DOJ press release can be found here and the Masih’s account of the issue via the UAE news site The National is here. First case to my knowledge of something like this happening on US soil against a US citizen.</description>
+    </item>
+    
     <item>
       <title>Update for US/Iranian Diplomacy</title>
       <link>https://osintelproject.org/daily-rundown/blog-12/</link>
@@ -233,18 +243,6 @@ If you’re creating a theme with plans to share it on the Hugo Themes website p
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://osintelproject.org/daily-rundown/blog-13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://osintelproject.org/daily-rundown/blog-13/</guid>
-      <description>title = &amp;ldquo;Quick Hits&amp;rdquo; date = &amp;ldquo;2021-07-16&amp;rdquo; tags = [&amp;ldquo;US&amp;rdquo;, &amp;ldquo;Iran&amp;rdquo;, &amp;ldquo;Diplomacy&amp;rdquo;, &amp;ldquo;World News&amp;rdquo;] categories = [&amp;ldquo;Category 3&amp;rdquo;] description = &amp;ldquo;Quick update on global events impacting nuclear diplomacy.&amp;rdquo;
-+++
-Interesting Iranian Op on US Soil
-So a few days ago the US DOJ just released an indictment of 4 Iranian individuals who conspired to kidnap or coerce Masih Alinejad an American-Iranian human rights activist to come back to Iran. The DOJ press release can be found here and the Masih’s account of the issue via the UAE news site The National is here.</description>
     </item>
     
     <item>
