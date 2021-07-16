@@ -278,17 +278,17 @@
   </url>
   
   <url>
-    <loc>https://osintelproject.org/post/post-1/</loc>
+    <loc>https://osintelproject.org/book-reviews/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osintelproject.org/book-reviews/post-1/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://osintelproject.org/categories/hugo/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://osintelproject.org/post/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -313,17 +313,17 @@
   </url>
   
   <url>
-    <loc>https://osintelproject.org/post/post-3/</loc>
+    <loc>https://osintelproject.org/book-reviews/post-3/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintelproject.org/post/post-2/</loc>
+    <loc>https://osintelproject.org/book-reviews/post-2/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://osintelproject.org/post/post-4/</loc>
+    <loc>https://osintelproject.org/book-reviews/post-4/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -333,7 +333,7 @@
   </url>
   
   <url>
-    <loc>https://osintelproject.org/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://osintelproject.org/book-reviews/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -366,15 +366,11 @@
   </url>
   
   <url>
-    <loc>https://osintelproject.org/longform/</loc>
-  </url>
-  
-  <url>
     <loc>https://osintelproject.org/tags/rambling/</loc>
   </url>
   
   <url>
-    <loc>https://osintelproject.org/musings/reflection-on-drone-strikes/</loc>
+    <loc>https://osintelproject.org/book-reviews/reflection-on-drone-strikes/</loc>
   </url>
   
   <url>
