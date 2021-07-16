@@ -1,9 +1,9 @@
++++
 title = "Quick Hits"
 date = "2021-07-16"
 tags = ["US", "Iran", "Diplomacy", "World News"]
 categories = ["Category 3"]
 description = "Quick update on global events impacting nuclear diplomacy."
-
 +++
 
 **Interesting Iranian Op on US Soil**
