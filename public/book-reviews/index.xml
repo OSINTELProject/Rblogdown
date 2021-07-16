@@ -18,16 +18,5 @@ They really mean the military commander Abu Hafs al-Masri. (Atef)
 “ [&amp;hellip;] On the night of November 15, 2001 coalition missiles hit the home of al-Qa&amp;rsquo;ida’s military chief, Abu Hafs al-Masri, crumpling it into a pile of stones at the bottom of a deep crater. While most al-Qa&amp;rsquo;ida commanders had evacuated, Abu Hafs had been unable to do so because of a slipped disk in his back.</description>
     </item>
     
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://osintelproject.org/book-reviews/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://osintelproject.org/book-reviews/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
-    </item>
-    
   </channel>
 </rss>
