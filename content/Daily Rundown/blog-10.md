@@ -1,30 +1,27 @@
+
+
 +++
 
-title = "Iran Cyberattack"
-date = "2021-04-11"
+title = "Nuclear Discussions Continued"
+date = "2021-04-20"
 tags = ["Nukes", "News", "Iran", "US"]
 categories = ["Category 3"]
-description = "Well That was Quick"
+description = "Update to JCPOA talks with Iran among the P4+1 and indirectly with US."
 
 +++
 
-Well that was quick. 
+In the last post about these diplomatic talks, briefly mentioned was the Natanz blackout. The immediate sources claimed this was caused by a possible cyberattack by Israel. 
 
-Just after updating the current diplomatic "shuttle diplomacy" (dumb term in my opinion. Also indirect talks among others) going on in Vienna, this Sunday an electric blackout occurred at Natanz, Iran. Iran labeled this a terrorist attack and journalists are calling this a cyberattack. 
+Since then the nature of the attack is much clearer and it was in fact an [explosion](https://www.nytimes.com/2021/04/11/world/middleeast/iran-nuclear-natanz.html?smid=url-share) on 10 April 2021. This explosion targeted the internal power supply of the enrichment facility and the Nytimes quoted US intelligence sources, which claimed  that this explosion set back enrichment efforts 9 months and had Israeli involvement. [Further reporting by the Guardian indicates the perpetrator is believed to be Reza Karimi](https://www.theguardian.com/world/2021/apr/17/iran-names-suspect-in-natanz-nuclear-plant-attack). 
 
-Just yesterday Iran announced their use of 164 IR-6 centrifuges for uranium enrichment. 
+This event caused two things to happen. 
 
-AP's version [here](https://apnews.com/article/donald-trump-iran-iran-nuclear-nuclear-weapons-united-nations-7324cb007c43eb8e58ab1bbbcbec963c), Guardian [here](https://www.theguardian.com/world/2021/apr/11/accident-at-irans-natanz-nuclear-plant-as-new-uranium-enrichment-starts), and AFP [here](http://www.naharnet.com/stories/en/280785-iran-says-nuclear-facility-hit-by-act-of-terrorism) and [here](https://www.france24.com/en/live-news/20210411-iran-reports-power-failure-accident-at-natanz-nuclear-site). 
+1. Iran increased its enrichment levels to 60% using their IR-6s that are remaining from the blast. The [IAEA](https://www.reuters.com/world/middle-east/iaea-confirms-iran-has-started-enriching-uranium-60-purity-2021-04-17/) has verified this among others. 
+2. Diplomatic talks have still continued. There is a possibility of some temporary interim agreement being reached so further negotiation can commence at a later date, [source](https://www.reuters.com/world/middle-east/nuclear-talks-make-some-progress-interim-arrangement-possible-iranian-officials-2021-04-19/). 
 
-For specifics on centrifuges see [here](https://apnews.com/article/donald-trump-iran-iran-nuclear-nuclear-weapons-united-nations-7324cb007c43eb8e58ab1bbbcbec963c). 
+So now the question is back to diplomacy and if it can be successful. 
 
-Basically the big question is was this an Israeli cyber op to torpedo any talks at Vienna for nuclear diplomacy. 
+Also in other news there were murmurs that Iran and Saudi Arabia have had some  diplomatic discussion over their regional differences. Iran has not officially confirmed this, nor has Saudi Arabia to my knowledge. 
 
-Interestingly the US Sec of Def Lloyd Austin, visited Israel this weekend pledging continued commitment to Israel's defense. [DoD official press release here](https://www.defense.gov/Explore/News/Article/Article/2568144/austin-says-us-commitment-to-israel-remains-ironclad/). As well as [Reuters bit here](https://www.reuters.com/article/us-usa-israel-austin-idUKKBN2BY05X). Definitely must have had prior warning to what is currently referred to as a cyberattack. 
-
-Main takeaway is this will shift back to Iran's hardline position of all sanctions removed at once. Harder to negotiate with that since Biden wants a gradual lift to ensure Iranian good behavior. 
-
-
-
- 
+As always find the helpful but [US biased clearinghouse at GlobalSecurity](https://www.globalsecurity.org/wmd/library/news/iran/2021/index_04.htm) for some English reporting on Iran. It should be noted that among their sources are Radio Free Europe and VOA. 
 

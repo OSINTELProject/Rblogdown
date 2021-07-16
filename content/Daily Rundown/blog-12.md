@@ -1,38 +1,54 @@
 +++
-title = "Update for US/Iranian Diplomacy"
-date = "2021-06-06"
-tags = ["US", "Iran", "Diplomacy"]
+title = "Quick Hits"
+date = "2021-07-16"
+tags = ["US", "Iran", "Diplomacy", "World News"]
 categories = ["Category 3"]
-description = "Long overdue update on global events impacting nuclear diplomacy."
-
+description = "Quick update on global events impacting nuclear diplomacy."
 +++
 
-Hmm, what's been going on over the past month or so?
+**Interesting Iranian Op on US Soil**
 
-Well, for the discussions not much has progressed over a continued belief of cautious optimism. There have been [five rounds of discussions and this week there is a break before talks resume](https://www.globalsecurity.org/wmd/library/news/iran/2021/iran-210603-irna01.htm) again. 
+So a few days ago the US DOJ just released an [indictment](https://www.justice.gov/opa/press-release/file/1411371/download) of 4 Iranian individuals who conspired to kidnap or coerce Masih Alinejad an American-Iranian human rights activist to come back to Iran. The DOJ press release can be found [here](https://www.justice.gov/opa/pr/iranian-intelligence-officials-indicted-kidnapping-conspiracy-charges) and the Masih’s account of the issue via the UAE news site The National is [here](https://www.thenationalnews.com/world/us-news/2021/07/14/masih-alinejad-on-iranian-kidnapping-plot-i-moved-between-3-safe-houses-in-8-months/). First case to my knowledge of something like this happening on US soil against a US citizen. Can also see another decent US mouthpiece here on a [summary of events](https://iranprimer.usip.org/index.php/blog/2021/jul/14/us-indicts-iranians-plotting-kidnap-us-journalist).
 
-Overall stance of both parties has not changed. US- Iran remove nuclear stockpile before sanctions lifted. Iran- US remove sanctions and then rejoin JCPOA.  
+Also random the alleged money launder Niloufar Bahadorifar (aka Nellie Bahadorifar) had a LinkedIn account which seems to have been removed recently.  Title states Business Manager at CHANEL but that’s only viewable from archived search engine results. Not able to fact check this any more than that though. https://www.linkedin.com/in/niloufar-bahadori-b4195486 
 
-There are a few notable events leading to this state of affairs. 
+<u>Interpretation</u> - I find this interesting from the US/Iranian nuclear diplomacy angle. 
 
-1. Palestine/Israel events. For an comprehensive introduction on this recent instance with some historical context see [here](https://www.jadaliyya.com/Details/42730/Palestine-Sheikh-Jarrah,-Expulsion,-Occupation,-and-Settler-Colonialism-Middle-East-Learn--Teach-Series). Haaretz has a summary of the actual events. [11 Days, 4,340 Rockets and 261 Dead: The Israel-Gaza Fighting in Numbers. According to UN humanitarian office, at least 129 out of 248 people killed in Gaza were civilians and 1,042 housing and commercial units were severely damaged.](https://www.haaretz.com/israel-news/elections/.premium.HIGHLIGHT-11-days-4-340-rockets-and-261-dead-the-israel-gaza-fighting-in-numbers-1.9836041) (There are many other accounts to read on these events for a [better understanding](https://www.haaretz.com/israel-news/.premium.MAGAZINE-the-israeli-army-s-videos-were-sterile-gazans-experienced-something-else-1.9842090) of a day by day account as well as the broader implications.) The importance for the Vienna talks was this: Biden was trying to sidestep the Palestine/Israel issues while focusing solely on Iranian nuclear diplomacy. This event portrays this as possibly untenable approach but no definitive stance has been decided yet. 
-2. Things stalled long enough that domestic elections in Iran to become a serious consideration for future negotiations. [See here for brief overview](https://www.bbc.com/news/world-middle-east-57097664) and also [here for individual candidates](https://www.bbc.com/news/world-middle-east-57274703). Elections will take place 18 June.    There is a [review](https://www.globalsecurity.org/wmd/library/news/iran/2021/iran-210604-rferl01.htm) for possibly including some of the rejected candidates. The number currently stands at 7. 
-3. Israeli elections which have stagnated for seemingly for forever with Netanyahu still holding onto power seems to have finally broken.  A coalition to oust Netanyahu with [Naftali Bennet](https://www.haaretz.com/israel-news/.premium.HIGHLIGHT.MAGAZINE-naftali-bennett-next-israeli-pm-the-man-behind-the-slogans-and-stereotypes-1.9864203) as the new prime minister is [days away from occurring](https://www.haaretz.com/israel-news/elections/EXT-LIVE-netanyahu-s-opponents-to-meet-as-swearing-in-of-new-government-approaches-1.9878356). (uncertain on what this shakeup does to Israeli domestics politics thus influencing global events)
+First of why was the indictment released this week? Aside from the legal hurdles and timelines these cases can be kept under wraps until its decided to go public. This looks to be another piece used to put pressure on Iran by the US for more international credibility for employing its crippling sanctions and delaying any JCPOA result. 
 
+There has been little progress in any diplomatic discussions after the June elections for the new Iranian president-elect Ebrahim Raisi. Biden’s said there’s not timeline for a seventh round of talks but it seems like the longer this delay the less likely for an easy return to JCPOA. [source](https://www.rferl.org/a/iran-nuclear-no-deadline/31355122.html) 
 
+*Aside*. Also international media has deemed Raisi as a hardliner (hardliner=bad in their definition). Most media sites utilize this label with no specific examples for Raisi’s views or opinions of matters except for the fact that he was a judge on the 1988 tribunals ([Death Committee](https://www.bbc.com/news/world-middle-east-57421235)) and was Khamenei’s pick for president. These vagaries are problematic in actual understanding a person but go with the territory of political reporting. 
 
-Random international news. 
+Lastly here’s an insightful source when accounting for the position of Yemen and how this is currently viewed by Saudi Arabia, Yemen, Iran and the US. 
 
-Iran's largest naval vessel IRIS Kharg recently [caught fire and sank](https://www.cbsnews.com/news/kharg-iran-navy-warship-fire-gulf-oman/). There has been a weird build up of naval events between the US, Israel, and Iran over the [past few years](https://apnews.com/article/donald-trump-iran-middle-east-945d3d138487c0f5d873cd677356fd03). (Unknown importance on this trend)
+https://sanaacenter.org/publications/analysis/14679
 
-IAEA has not had access to recordings of facilities [since February](https://www.theguardian.com/world/2021/jun/01/iran-nuclear-program-un-watchdog-unable-to-access-data-since-february). 
+**IAEA Update**
 
-IAEA [still has unknown explanation of two nuclear sites](https://www.theguardian.com/world/2021/may/26/iran-failure-explain-uranium-traces-big-problem-iaea-un) in Iran first found in [Feburary 2019](https://www.iaea.org/sites/default/files/20/11/gov2020-51.pdf). 
+https://www.iaea.org/sites/default/files/21/06/gov2021-29.pdf 
 
-02 June 2021-Oil refinery fire [near Tehran](https://apnews.com/article/middle-east-iran-business-fires-95801d5d4ae32840f0f75ea91652b4fe). 
+That’s an update on 4 previously undisclosed locations first recognized by the IAEA in 2018. Iran gave complementary access to 3 where all were found to have multiple uranium particles of anthropogenic origin but has not elaborated on these results. 
 
-02 June 2021- Iran [lost voting privileges this year](https://apnews.com/article/united-nations-general-assembly-united-nations-africa-middle-east-iran-86e2689c342fac81c04a4c9e6e65c285) for UN. Owes about $16 million to regain voting rights. 
+Also broader summary of the monitoring snafu and “official enrichment numbers” https://www.iaea.org/sites/default/files/21/06/gov2021-28.pdf 
 
+9 June 2021- IAEA estimates of the “bad” uranium are “ 62.8 kg of uranium enriched up to 20% U-235; and 2.4 kg of uranium enriched up to 60% U-235”
 
+**Another News Source**
 
-#### Hopefully this puts things in some context. Lots has gone on and I have not been writing about much of these events. Apologies there but hopefully this puts things more on track. 
+I have not been using liveumap for any regional Middle East news but found it to be entertaining to guess who’s running it. Supposedly the site originated with two Ukranian individuals during the Russia-Ukraine crisis over Crimea. In their about section their governed by Liveuamap LLC under the jurisdiction of the State of Virginia, USA with a “EU-based technical infrastructure”. Curious. 
+
+https://liveuamap.com/about#history
+
+Just be wary of the types of bias from a source like this while using it. Seems to get a good grasp of quick timely events from Twitter. I’ll be adding this to the source list I use but from what I can estimate it won’t be that noteworthy to my uses. 
+
+The LLC has been inactive since December 2020. https://cis.scc.virginia.gov/EntitySearch/BusinessInformation?businessId=899111&source=FromEntityResult&isSeries%20=%20false 
+
+**Iraq Kurdistan**
+
+Also weird things going on in the PUK. Seems to be some political infighting among the Talabani family. 
+
+https://www.rudaw.net/english/opinion/16072021
+
+https://1001iraqithoughts.com/2021/07/15/the-battle-for-jalal-talabanis-successorship/ 
+

@@ -1,25 +1,30 @@
 +++
-title = "Little America"
-date = "2021-01-02"
-tags = ["Finished Books", "Afghanistan"]
-categories = ["Category 2"]
-description = "New Year"
+title = "Iran's Drive for Bargaining Power"
+date = "2021-01-03"
+tags = ["US-Iran", "IR"]
+categories = ["Category 3"]
+description = "Nuclear Energy"
 
 +++
 
-Alright so this a new year and I'm going to try to become much more accountable towards my daily writing endeavors. 
+Iran is reportedly enriching their uranium yields back to 20% to its prior negotiating level before the JCPOA deal brought back their levels to internally agreed upon numbers. [Reuters](https://www.reuters.com/article/us-iran-nuclear-iaea-idUSKBN2962JG) picked this up as well as the source seems to be coming from the [Russian envoy (Mikhail Ulyanov)](https://www.globalsecurity.org/wmd/library/news/iran/2021/iran-210101-rferl01.htm) to IAEA. 
 
-I just finished Rajiv Chandrasekaran's book Little America. I've previously read his Life in the Emerald City about his reporting in Iraq. There are few reporters in my opinion that can do what he can and the importance of both of these two books will stand the test of time to later be used by historians in the ensuing years. 
+Now this information is interesting for a few reasons. 
 
-Important things and takeaways from the book
+1. Back in July 2019 it was reported that Iran was increasing its lowgrade stockpile and hedging its bets for Trump's re-election. 
+2. There were also IAEA that there were new readings in new possible sites. Supplied most likely by CIA/Mossad readings to IAEA (its where most of their Nuclear monitoring of Iran comes from). 
+3. The economy has reached a new low. Many of the election promises hinged on the JCPOA boosting their economy and Iran has not been able to weather the storm nearly as much as it hoped. 
 
-This is probably one of the best measured takes of Petraeus and COIN in Afghanistan. It cannot be overstated how highly Petraeus was viewed at this time throughout Washington in both DoD and Congress. Petraeus could literally do no wrong and couldn't fail. 
+ Here's the official documentation via the [IAEA](https://www.iaea.org/sites/default/files/20/11/govinf2020-16.pdf) and the most recent 8 page summary found [here](https://www.iaea.org/sites/default/files/20/11/gov2020-51.pdf).  
 
-Also its kind of ridiculous how important Holbrooke was at this time. There's also a recent book Our Man by someone who had access to all of his personal papers that's also on my to-read list. What's sad is how oft-putting Holbrooke was even though many of his ideas and plans were sound. Eliminate bureaucracy and have an A-list team of every different agency in one specific group. Obama was thrust with Holbrooke from Clinton and they did not get along. One of the important lessons from all of these top planners is the ego factor and how it inhibits many policy decisions in its implementation. Too many people were worried about how this reflects on their own accomplishments instead of worrying about actually improving things in Afghanistan. Also reveals a critical shortcoming of USAID and DOS. What came about from all of the overspending and lack of accountability in Afghanistan was SIGAR. A pet project that has political will to document the pitfalls of actual shortcomings of the US in Afghanistan. 
+Why would they do this? 
 
-Another great example of bureaucracy getting the way was with Summer Coish in Chapter 9. Probably one of the best people to understand local economy issues and published her own magazine *Steppe*. She couldn't get onboarded until much later and wasn't able to leave the embassy over security concerns. 
++ Iran wants to renegotiate with the United States and do so from a position of strength. 
++ The assassination of Soleimani has weakened their backing of Shia militias.
++ Apparently Israel is Suspect No. 1 for Iran's chief nuclear scientist [Mohsen Fakhrizadeh](https://www.theguardian.com/world/2020/nov/27/mohsen-fakhrizadeh-iranian-nuclear-scientist-reportedly-shot-dead-near-tehran)'s assassination. 
++ They need something to help with COVID and a stagnant economy
++ They also don't have much to lose. Trump has been too gun-shy ever since the drone fiasco on June 20, 2019. One of the war-hawks Bolton is out of office and Pompeo is worried about a possible election campaign in 2024. 
 
-Most interesting guy in the book is Carter Malkasian. Need more  people like him. 
+**Bonus** Unintended Side-effect: All of these "crippling" sanctions against Iran (mostly it's oil exports), and they have been some of the strictest and most powerful. Basically US Treasury has crazy amount of world power when any transaction is done in dollars. Even getting around this is iffy unless your China or none of your global transactions are done in USD. Their economy has been forced to adapt to become much more domestically focused and is not as integrated into the global economy. Basically when oil stops being this precious exportable commodity leading to continued yearly economic growth, i.e. Saudi Arabia, they will have a much more diversified economy. 
 
-*Malkasian was not like most of the others selected by State and USAID. He asked to work in the field, not stay in Kabul. He lived in a trailer on a dusty forward operating base, and his meals consisted of whatever fare was being served to the grunts, if he wasn’t eating goat with Afghans. What really set him apart was his desire to live in a remote district for two consecutive years—very few State personnel did that—and his tendency to flout the regional security officer’s rules. He regularly ventured around the district with the police chief, putting his security in the hands of rifle-toting Afghans—a potential firing offense if his bosses in Kabul ever discovered it. “The only way the Afghans will trust you is if you show that you trust them,” he told me.*
-
+*Update* 01/04/2020 - Well whadya know it's now [official](https://www.reuters.com/article/iran-nuclear-enrichment-idINKBN29910C) and the process of enrichment above 4.5% is now ongoing. Looks like this is now the preferred method to stabilizing the Iranian regime and maybe later improve peoples suffering from crippling sanctions. Gotta remember that sanctions by and large affect the poor much more than the rich. You're banking on creating such unrest and instability from below that the elite are threatened enough to change their behavior. This can't happen unless people aren't suffering. 

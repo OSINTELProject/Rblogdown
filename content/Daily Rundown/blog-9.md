@@ -1,66 +1,30 @@
 +++
 
-title = "Nuclear Grandstanding"
-date = "2021-04-09"
+title = "Iran Cyberattack"
+date = "2021-04-11"
 tags = ["Nukes", "News", "Iran", "US"]
 categories = ["Category 3"]
-description = "Source Evaluation"
+description = "Well That was Quick"
 
 +++
 
-For the past year or so I’ve been paying attention to this whole fiasco of nuclear grandstanding between the United States and Iran. 
+Well that was quick. 
 
-*Basic preliminary instances that brought us to things today.*
+Just after updating the current diplomatic "shuttle diplomacy" (dumb term in my opinion. Also indirect talks among others) going on in Vienna, this Sunday an electric blackout occurred at Natanz, Iran. Iran labeled this a terrorist attack and journalists are calling this a cyberattack. 
 
-2018
+Just yesterday Iran announced their use of 164 IR-6 centrifuges for uranium enrichment. 
 
-•	8 MAY – United States withdraws from US led JCPOA nuclear agreement
+AP's version [here](https://apnews.com/article/donald-trump-iran-iran-nuclear-nuclear-weapons-united-nations-7324cb007c43eb8e58ab1bbbcbec963c), Guardian [here](https://www.theguardian.com/world/2021/apr/11/accident-at-irans-natanz-nuclear-plant-as-new-uranium-enrichment-starts), and AFP [here](http://www.naharnet.com/stories/en/280785-iran-says-nuclear-facility-hit-by-act-of-terrorism) and [here](https://www.france24.com/en/live-news/20210411-iran-reports-power-failure-accident-at-natanz-nuclear-site). 
 
-•	NOVEMBER – Start of Maximum Pressure Campaign
+For specifics on centrifuges see [here](https://apnews.com/article/donald-trump-iran-iran-nuclear-nuclear-weapons-united-nations-7324cb007c43eb8e58ab1bbbcbec963c). 
 
-2019
+Basically the big question is was this an Israeli cyber op to torpedo any talks at Vienna for nuclear diplomacy. 
 
-•	8 MAY – Iran officially announced abandoning some JCPOA elements.
+Interestingly the US Sec of Def Lloyd Austin, visited Israel this weekend pledging continued commitment to Israel's defense. [DoD official press release here](https://www.defense.gov/Explore/News/Article/Article/2568144/austin-says-us-commitment-to-israel-remains-ironclad/). As well as [Reuters bit here](https://www.reuters.com/article/us-usa-israel-austin-idUKKBN2BY05X). Definitely must have had prior warning to what is currently referred to as a cyberattack. 
 
-•	20 JUNE – US drone shot down over Iranian airspace
+Main takeaway is this will shift back to Iran's hardline position of all sanctions removed at once. Harder to negotiate with that since Biden wants a gradual lift to ensure Iranian good behavior. 
 
-2020
 
-•	4 JULY – 27 SEPTEMEBER ­ British/Iran Oil Tanker holdup
 
-•	9 JUL 2019 – IAEA first reported an increase in Iran’s low-grade stockpile. IAEA stated UF6  levels increased from 3.67% to 4.5% U-235. Gross enrichment of low-grade stockpile from IAEA report on 2 NOV 2020 stated was 2442.9 kg. Approx. 1,535.1 kg was at 4.5 %.
-
-2020
-
-•	3 JANUARY – US Drone strike successfully kills Qassem Soleimani and PMF general Abu Mahdi al-Muhandis
-
- •	8 JAN – Iran shells US embassy in Green Zone, reported concussions to US personnel. Limited from accidently downing Ukraine International Airlines flight PS752
-
-•	FEBUARY/MARCH – From mid-February 2020 COVID hits Iran, beginning of March for most of US
-
-•	8 JUNE to 4 JULY – Reported fire/explosion at Natanz, damaged advanced centrifuges (IR-6s). Since expedited further construction underground and more construction activities. 
-
-•	27 NOVEMBER – Israel reportedly assassinates top Iranian Nuclear scientist Mohsen Fakhrizadeh
-
-2021
-
-•	JANUARY – Since late December, Iranian enrichment of U-235 increased from 4.5% to 20% at the Fordow facility. Atomic Energy Organization of Iran head Ali Akbar Salehi publicly stated that 500 grams of fuel enriched at 20% (U-235) was being produced daily since the start of the month. 
-
-•	FEBRUARY to MARCH – Since Biden’s election, earlier predictions hoped for a simple reversal back to JCPOA on both sides. Neither side caved. Iran reduced its breakout time from roughly a year to six months granting it better bargaining power. The US kept up its sanction stranglehold on the country.  
-
-•	APRIL 5 to 9 – Informal diplomacy during a Vienna conference this week between EU and Iran. 
-
-**Alright now that that’s out of the way.** 
-
- Nothing of anything great news has actually happened yet. The most promising thing this past week is the fact that some "official/unofficial" diplomatic correspondence is occurring between Iran and the US. We'll see if anything comes of this but in my opinion nothing concrete will come of anything for a few more months. 
-
-[See here for a decent repository of events for Iran in April.](https://www.globalsecurity.org/wmd/library/news/iran/2021/index_04.htm) Apologies on sourcing this but there wasn't any specific events highlighted within this post.  
-
-For a timeline of events I have some sources compiled [here](https://hackmd.io/m-mAdA5MRbGAkaXLDEqeRA) as well. 
-
-For recent things see Reuters [here](https://www.reuters.com/article/iran-nuclear-china-int/parties-to-iran-nuclear-talks-see-progress-despite-clash-on-sanctions-idUSKBN2BW17F), Juan Cole [here](https://www.juancole.com/2021/04/understand-indirect-chauvin.html), and John McLaughlin [here](https://www.thecipherbrief.com/column/cipher-brief-expert-view/on-nuclear-iran-and-north-korea-are-a-package-deal). 
-
-Juan Cole is a Middle East historian that was part of reconstruction efforts in Iraq post 2003 for the CPA. Generally, pretty left leaning but insightful in analysis. 
-
-McLaughlin was DCI for a couple months in 04 and now teaches at John Hopkins and writes for CipherBrief. CipherBrief is a retired spies mouthpiece. Basically where you go to pasture after politics forces an early exit or you retire due to old age. Information level of world  events is always high but motives for their views is always suspect. You also have to pay for premium stuff (paywalls are evil). 
+ 
 
