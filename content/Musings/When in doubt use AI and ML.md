@@ -1,8 +1,14 @@
++++
+
 title = "When in Doubt use AI/ML"
 date = "2021-10-14"
 tags = ["Havana Syndrome", "AHI"]
 categories = ["Category 11"]
 description = "Nothing really important just and interesting anecdote about the issue"
+
++++
+
+
 
 **Anomalous  Health Incidents (AHI) and also known as Havana Syndrome.**
 
