@@ -10,7 +10,7 @@ description = "Nothing really important just and interesting anecdote about the 
 
 
 
-**Anomalous  Health Incidents (AHI) and also known as Havana Syndrome.**
+**Anomalous  Health Incidents (AHI), also known as Havana Syndrome.**
 
 The US Intel Community has been baffled by the source of AHIs and a leaked report of the reported source of these ‘attacks’ has not happened. I.e., there is still conflicting evidence on what is causing this and if a human entity is responsible. 
 
