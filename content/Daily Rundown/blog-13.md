@@ -47,6 +47,7 @@ And I figured I’d add the news about Assad’s uncle coming back to Syria to e
 
 [[1\]](#_ftnref1) [https://www.merriam-webster.com/dictionary/d%C3%A9tente](https://www.merriam-webster.com/dictionary/détente)
 
-[[2\]](#_ftnref2) https://carnegie-mec.org/diwan/85555
+[[2\]](#_ftnref2) [https://carnegie-mec.org/diwan/85555](https://carnegie-mec.org/diwan/8555)
 
-[[3\]](#_ftnref3) https://english.alaraby.co.uk/news/inside-details-rifaat-al-assads-return-syria
+[[3\]](#_ftnref3) [https://english.alaraby.co.uk/news/inside-details-rifaat-al-assads-return-syria](https://english.alaraby.co.uk/news/inside-details-rifaat-al-assads-return-syria)
+
