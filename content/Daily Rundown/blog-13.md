@@ -15,7 +15,7 @@ description = "Things I've come across recently"
 
  *Iraq Elections*
 
-Iraq held its parliamentary elecStions on 10 October with Moqtada al-Sadr winning the largest bloc. ![](https://pbs.twimg.com/media/FBfgqsiXIAIqYO4?format=png&name=900x900)
+Iraq held its parliamentary elections on 10 October with Moqtada al-Sadr winning the largest bloc. ![](https://i.imgur.com/v0ZFVp1.png)
 
 ·     Notable for first general election since the Fall 2019 protests over corruption and lack of public services among others.
 
