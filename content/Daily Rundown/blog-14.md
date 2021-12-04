@@ -67,9 +67,7 @@ As things currently stand, I expect there to be no resumption on the JCPOA betwe
 
 https://www.wsj.com/articles/iran-resumes-production-of-advanced-nuclear-program-parts-diplomats-say-11637079334
 
- 
 
- 
 
 https://www.bloomberg.com/news/articles/2021-11-17/expanding-iran-nuclear-stockpile-raises-stakes-ahead-of-talks
 
