@@ -47,7 +47,7 @@ Back in April there was a resumption of diplomatic dialogue between Iran and Sau
 
 These discussions have recently been resumed just prior to the upcoming JCPOA talks.[^5]
 
-###### Houthi advance on Ma'rib
+#### Houthi advance on Ma'rib
 
 Now going to the issue in Yemen there has been an ongoing offensive by Houthi forces to take Ma’rib, a strategic hub for Saudi Arabia’s coalition forces where the UN backed government resides. This offensive looks to be the decisive element for the future of whatever you want to call this Saudi/Iran Cold War. Waiting for the outcome of this offensive seems to be the 
 
