@@ -11,7 +11,7 @@ Negotiations in Vienna are set to resume on 29 November between Iran and Europe.
 
 A [Business Insider article by Chatham House’s Sanam Vakil](https://www.businessinsider.com/biden-iran-running-out-of-time-to-salvage-nuclear-deal-2021-11?r=US&IR=T) (Senior Research Fellow of MENA) provides a succinct summary of the past few months. 
 
-Frankly, I haven’t found an adequate answer to why a diplomatic agreement has failed to occur this past year. The closest thing I’ve come to grasping this is from a Responsible Statecraft report citing Biden’s unwillingness to lift US sanction on Iran. 
+Frankly, I haven’t found an adequate answer to why a diplomatic agreement has failed to occur this past year. The closest thing I’ve come to grasping this is from a Responsible Statecraft report citing Biden’s unwillingness to lift US sanctions on Iran. 
 
 > “But according to both Western and Iranian diplomats involved in the negotiations, the Iranians then lowered their demand and requested a commitment that Biden would simply commit to staying within the deal *for the rest of his own term*, granted that Iran also would remain in compliance. According to these sources, the U.S. negotiation team took the matter back to Washington but to the surprise of Tehran and others, the White House was not ready to make such a commitment, citing legal obstacles. Instead, it offered changes to the negotiating text that fell short of a legal commitment.”[[1\]](#_ftn1)
 
@@ -47,7 +47,7 @@ Back in April there was a resumption of diplomatic dialogue between Iran and Sau
 
 These discussions have recently been resumed just prior to the upcoming JCPOA talks.[[5\]](#_ftn5)
 
-Now going to the issue in Yemen there has been an ongoing offensive by Houthi forces to take Ma’rib, a strategic hub for Saudi Arabia’s coalition forces. 
+Now going to the issue in Yemen there has been an ongoing offensive by Houthi forces to take Ma’rib, a strategic hub for Saudi Arabia’s coalition forces where the UN backed government resides. This offensive looks to be the decisive element for the future of whatever you want to call this Saudi/Iran Cold War. Waiting for the outcome of this offensive seems to be the 
 
 ## Prediction on future viability of JCPOA.
 
@@ -55,9 +55,7 @@ Now going to the issue in Yemen there has been an ongoing offensive by Houthi fo
 
 As things currently stand, I expect there to be no resumption on the JCPOA between the United States and Iran in these talks in the next couple weeks. Sanctions by the US will remain in place for the foreseeable future and some progress between Iran and the EU might be made.
 
- 
-
-Israel still hasn’t decided its own position.[[6\]](#_ftn6)
+ Israel still hasn’t decided its own position and has reverted to its older policy of publicly decrying any negotiations while holding off an anything drastic.[[6\]](#_ftn6)
 
  
 
@@ -65,7 +63,7 @@ Israel still hasn’t decided its own position.[[6\]](#_ftn6)
 
  
 
- As previously reported Iran’s enrichment efforts have continued ever since the beginning of this year. 
+ As previously reported Iran’s enrichment efforts have continued ever since the beginning of this year. Current estimates from the IAEA and other news sites  reported that enough fissable material of 90% enriched uranium at about 1 month away. 
 
 https://www.wsj.com/articles/iran-resumes-production-of-advanced-nuclear-program-parts-diplomats-say-11637079334
 
