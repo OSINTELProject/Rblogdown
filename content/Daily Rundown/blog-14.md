@@ -39,13 +39,15 @@ I’m just going to put these two things here without a complete understanding o
 
  
 
-## Saudi/Iranian Relations Background
+#### Saudi/Iranian Relations Background
 
 Back in April there was a resumption of diplomatic dialogue between Iran and Saudi Arabia (hosted by Iraq) for general discussion on their affairs (discuss yearly hajj can be seen as the most basic thing compared to the thornier issues). [See USIP’s Iran Primer for more of an overview.](https://iranprimer.usip.org/resource/timeline-irans-foreign-relations) 
 
 > “Iran and Saudi Arabia held direct talks five years after severing diplomatic relations. The talks in Baghdad were mediated by Iraqi Prime Minister Mustafa al Kadhimi. The Iran delegation was led by [Saeed Iravani](https://www.reuters.com/article/us-iran-saudi-talks/second-round-of-saudi-iran-talks-planned-this-month-sources-idUSKBN2C82A8), deputy secretary of the Supreme National Security Council. The Saudi delegation was led by [Khalid al Humaidan](https://www.ft.com/content/852e94b8-ca97-4917-9cc4-e2faef4a69c8), the chief of intelligence. The discussion [focused primarily](https://www.ft.com/content/852e94b8-ca97-4917-9cc4-e2faef4a69c8) on Yemen, where Riyadh and Tehran have backed opposing sides since the civil war erupted in 2014. The delegations also reportedly [discussed](https://www.reuters.com/world/middle-east/saudi-iranian-officials-held-talks-patch-up-relations-ft-2021-04-18/) the political and financial crisis in Lebanon, where Iran and Saudi Arabia back opposing political blocs.” 
 
 These discussions have recently been resumed just prior to the upcoming JCPOA talks.[^5]
+
+###### Houthi advance on Ma'rib
 
 Now going to the issue in Yemen there has been an ongoing offensive by Houthi forces to take Ma’rib, a strategic hub for Saudi Arabia’s coalition forces where the UN backed government resides. This offensive looks to be the decisive element for the future of whatever you want to call this Saudi/Iran Cold War. Waiting for the outcome of this offensive seems to be the 
 
