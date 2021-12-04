@@ -52,7 +52,7 @@ Now going to the issue in Yemen there has been an ongoing offensive by Houthi fo
 
 #### Diplomatic Saudi Row in Lebanon
 
-In a comment before Information Minister George Kordahi took office he criticized the Saudi led war in Yemen. MBS took that opportunity to ban Lebanese goods from entering Saudi Arabia, causing diplomatic and further economic harm to Lebanon. His main reason though is to put pressure on Hezbollah which conlficts with previous Saudi policy of supporting the Hariri family. It looks like Saudi is thinking of changing their relations with Lebanon and it remains to be seen if they will give up any ambitions they have as keeping the status quo.[^6] There's many outside actors influencing Lebanon and these are just two actors in dictating Lebanon's future. 
+In a comment before Information Minister George Kordahi took office he criticized the Saudi led war in Yemen. MBS took that opportunity to ban Lebanese goods from entering Saudi Arabia, causing diplomatic and further economic harm to Lebanon. His main reason though is to put pressure on Hezbollah which conlficts with previous Saudi policy of supporting the Hariri family. It looks like Saudi is thinking of changing their relations with Lebanon and it remains to be seen if they will give up any ambitions they have as keeping the status quo.[^6] There's many outside actors influencing Lebanon and these are just two mentioned actors dictating Lebanon's future. 
 
 - [ ] These two issues will continue to factor into the bigger/longer/better new JCPOA deal that Biden says he wants. 
 
