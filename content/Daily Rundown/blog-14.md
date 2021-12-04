@@ -69,10 +69,15 @@ https://www.wsj.com/articles/iran-resumes-production-of-advanced-nuclear-program
 
  
 
+ 
+
 https://www.bloomberg.com/news/articles/2021-11-17/expanding-iran-nuclear-stockpile-raises-stakes-ahead-of-talks
 
+
 [^1]: https://responsiblestatecraft.org/2021/10/20/revealed-how-biden-rejected-a-reasonable-way-forward-in-iran-deal-talks/
+
 [^2]: 1-on-1 with Rafael Grossi: A live interview with the Director General of the IAEA; https://youtu.be/rdPFEEdew4E
+
 [^3]:Here’s another link of the same info from another source. https://www.foreign.senate.gov/press/ranking/release/risch-meets-with-iaea-director-general-grossi
 
 [^4]: https://www.state.gov/special-envoy-malleys-regional-travel/
