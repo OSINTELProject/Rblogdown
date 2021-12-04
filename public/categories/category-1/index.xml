@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rblogdown Setup</title>
-      <link>https://osintelproject.org/musings/blog-1/</link>
+      <link>https://osintelproject.org/musings/rblogdown-setup/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://osintelproject.org/musings/blog-1/</guid>
+      <guid>https://osintelproject.org/musings/rblogdown-setup/</guid>
       <description>Alright I finally was able to setup Rblogdown with something resembling a type that I wanted. The biggest problem I had was the inability to figure out a decent workflow of things.
 That&amp;rsquo;s the main way to get these things to all talk together. Here&amp;rsquo;s a helpful video tutorial of the setup. My biggest issue I had was with Hugo. They have a bunch of different themes but I didn&amp;rsquo;t like very many of them and I have no html, css, javascript or bootstrap experience.</description>
     </item>
@@ -25,7 +25,7 @@ That&amp;rsquo;s the main way to get these things to all talk together. Here&amp
       <guid>https://osintelproject.org/daily-rundown/blog-1/</guid>
       <description>There is a new book out of on Qassam Soleimani by Arash Azizi. The Shadow Commander; Soleimani, the U.S., and Iran’s Global Ambitions I need to buy this and read it.
 Found interview here by Carnegie
-Okay this might be able to work okay, kinda sorta. Add this</description>
+Okay this might be able to work okay, kinda sorta. Testing out the first post.</description>
     </item>
     
     <item>
