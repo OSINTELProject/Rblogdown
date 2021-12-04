@@ -4,7 +4,6 @@ date = "2021-11-20"
 tags = ["US", "Iran", "Diplomacy", "World News"]
 categories = ["Category 3"]
 description = "Why is there so little movement between the US, Iran, and other P5+1 countries for returning to the JCPOA?"
-
 +++
 
 Negotiations in Vienna are set to resume on 29 November between Iran and Europe. There has been very little movement or progress with renegotiating the JCPOA. General arguments for the long delay cite Iranian elections at the end of June and the US withdrawal from Afghanistan in August but these are half truths at best for explaining this delay. 
@@ -49,7 +48,13 @@ These discussions have recently been resumed just prior to the upcoming JCPOA ta
 
 #### Houthi advance on Ma'rib
 
-Now going to the issue in Yemen there has been an ongoing offensive by Houthi forces to take Ma’rib, a strategic hub for Saudi Arabia’s coalition forces where the UN backed government resides. This offensive looks to be the decisive element for the future of whatever you want to call this Saudi/Iran Cold War. Waiting for the outcome of this offensive seems to be the 
+Now going to the issue in Yemen there has been an ongoing offensive by Houthi forces to take Ma’rib, a strategic hub for Saudi Arabia’s coalition forces where the UN backed government resides. This offensive looks to be the decisive element for the future of whatever you want to call this Saudi/Iran Cold War. Waiting for the outcome of this offensive seems to be the MO of both countries involved.
+
+#### Diplomatic Saudi Row in Lebanon
+
+In a comment before Information Minister George Kordahi took office he criticized the Saudi led war in Yemen. MBS took that opportunity to ban Lebanese goods from entering Saudi Arabia, causing diplomatic and further economic harm to Lebanon. His main reason though is to put pressure on Hezbollah which conlficts with previous Saudi policy of supporting the Hariri family. It looks like Saudi is thinking of changing their relations with Lebanon and it remains to be seen if they will give up any ambitions they have as keeping the status quo.[^6]There's many outside actors influencing Lebanon and these are just two actors in dictating Lebanon's future. 
+
+- [ ] These two issues will continue to factor into the bigger/longer/better new JCPOA deal that Biden says he wants. 
 
 ## Prediction on future viability of JCPOA.
 
@@ -57,7 +62,7 @@ Now going to the issue in Yemen there has been an ongoing offensive by Houthi fo
 
 As things currently stand, I expect there to be no resumption on the JCPOA between the United States and Iran in these talks in the next couple weeks. Sanctions by the US will remain in place for the foreseeable future and some progress between Iran and the EU might be made.
 
- Israel still hasn’t decided its own position and has reverted to its older policy of publicly decrying any negotiations while holding off an anything drastic.[^6]
+Israel still hasn’t decided its own position and has reverted to its older policy of publicly decrying any negotiations while holding off an anything drastic.[^7]
 
  
 
@@ -65,13 +70,9 @@ As things currently stand, I expect there to be no resumption on the JCPOA betwe
 
  
 
- As previously reported Iran’s enrichment efforts have continued ever since the beginning of this year. Current estimates from the IAEA and other news sites  reported that enough fissable material of 90% enriched uranium at about 1 month away. 
-
-https://www.wsj.com/articles/iran-resumes-production-of-advanced-nuclear-program-parts-diplomats-say-11637079334
+ As previously reported Iran’s enrichment efforts have continued ever since the beginning of this year. Current estimates from the IAEA and other news sites  reported that enough fissable material of 90% enriched uranium at about 1 month away.[^8] This stockpile neglects the necessary delivery device everyone says you need. This is the kicker for the so called military option if US and Israeli posturing is to be taken seriously. Estimates are quite fuzzy in open sources for where Iran's development of an ICBM capable of renetering earth's atmosphere. 
 
 
-
-https://www.bloomberg.com/news/articles/2021-11-17/expanding-iran-nuclear-stockpile-raises-stakes-ahead-of-talks
 
 
 [^1]: https://responsiblestatecraft.org/2021/10/20/revealed-how-biden-rejected-a-reasonable-way-forward-in-iran-deal-talks/
@@ -84,4 +85,9 @@ https://www.bloomberg.com/news/articles/2021-11-17/expanding-iran-nuclear-stockp
 
 [^5]: https://www.france24.com/en/tv-shows/the-interview/20211113-saudi-foreign-minister-we-will-continue-talks-with-iran
 
-[^6]: https://www.jpost.com/middle-east/iran-news/mixed-israeli-signals-about-renewed-us-talks-with-iran-analysis-685272
+[^6]: Lots of think tanks love to look at the role of Hezbollah in Lebanon as well as the role of the Gulf. See https://carnegie-mec.org/diwan/85731 and https://carnegie-mec.org/diwan/85801; https://www.mei.edu/publications/why-hezbollah-wanted-ministries-finance-and-public-works; https://www.chathamhouse.org/2021/06/how-hezbollah-holds-sway-over-lebanese-state
+
+[^7]: https://www.jpost.com/middle-east/iran-news/mixed-israeli-signals-about-renewed-us-talks-with-iran-analysis-685272
+
+[^8]: See these publications: https://www.wsj.com/articles/iran-resumes-production-of-advanced-nuclear-program-parts-diplomats-say-11637079334; https://www.bloomberg.com/news/articles/2021-11-17/expanding-iran-nuclear-stockpile-raises-stakes-ahead-of-talks; https://www.wsj.com/amp/articles/iran-nuclear-deal-explained-11610564572
+

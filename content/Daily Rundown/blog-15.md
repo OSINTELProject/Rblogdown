@@ -11,8 +11,17 @@ description = "JCPOA and some things in the news this week"
 
 Negotiations resumed between Iran and the P5+1 on 29 November in Vienna, but with the US in a hotel across the street and everyone else at the 
 
+[An article by Vali Nasr](https://www.foreignaffairs.com/articles/middle-east/2021-12-02/iran-middle-east-all-against-all?utm_medium=social)
 
 
+
+https://english.almayadeen.net/news/politics/al-mayadeen:-jcpoa-negotiations-in-vienna-to-resume-next-wee
+
+## Yemen
+
+- https://www.reuters.com/world/middle-east/saudi-coalition-targets-hothis-sites-yemens-sanaa-state-tv-2021-11-30/
+- Houthi-Salafi Coexistence Agreements: Motives and Future Prospects https://sanaacenter.org/publications/analysis/15839
+- 
 
 
 
