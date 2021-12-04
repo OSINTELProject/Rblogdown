@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "01faf4e2c1a78799",
+    "type": "split",
+    "children": [
+      {
+        "id": "c28d7974e84f65fb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "051c1c3cd8db1249",
+    "type": "split",
+    "children": [
+      {
+        "id": "130ee1a7182a17b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b759df322a2a0cac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a25e28c6cda6c383",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fb735719dc6a18f",
+    "type": "split",
+    "children": [
+      {
+        "id": "16a4b05dc39763e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3546c91cf72e8f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c28d7974e84f65fb",
+  "lastOpenFiles": [
+    "content/Daily Rundown/blog-14.md",
+    "2.md",
+    "content/Daily Rundown/blog-13.md",
+    "content/Long Form/blog-1.md",
+    "Backup/post (4).md",
+    "Backup/post (3).md",
+    "Backup/post (2).md",
+    "Backup/post (1).md"
+  ]
+}

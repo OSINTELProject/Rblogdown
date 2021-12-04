@@ -21,7 +21,7 @@ Negotiations resumed between Iran and the P5+1 on 29 November in Vienna, but wit
 
 Erdoğan has sacked [3 central bank managers in the past 2.5 years](https://www.reuters.com/markets/europe/erdogans-drive-cut-turkish-interest-rates-2021-12-01/) and has continued to politicize Turkey's central bank which is a huge no-no in macro economic circles. Basically Erdogan wants to maintain low interest rates to stimulate Turkey's economy and attract foreign businesses but the lira's value keeps tumbling to new lows. 
 
-I've been asking myeslf why this policy and the best thing I've come across was this by Carnegie.
+I've been asking myeslf why this policy and the best thing I've come across was this by Carnegie.[^1]
 
 [^1]: https://carnegie-mec.org/diwan/85896
 
