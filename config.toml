@@ -22,7 +22,7 @@ disableKinds = ["taxonomyTerm"]
   [[params.social.list]]
   class = "fab"
   icon = "fa-github"
-  url = "#"
+  url = "https://github.com/OSINTELProject"
 
   [[params.social.list]]
   class = "fab"
