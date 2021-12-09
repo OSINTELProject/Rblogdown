@@ -5,7 +5,7 @@ theme = "mero"
 disableKinds = ["taxonomyTerm"]
 
 [params]
-  dateFormat = "2006-01-02" 
+  dateFormat = "2006-01-02"
   author = "OSINTEL Project"
   description = "My awesome blog"
   mainImage = "images/main.jpeg"
@@ -27,12 +27,12 @@ disableKinds = ["taxonomyTerm"]
   [[params.social.list]]
   class = "fab"
   icon = "fa-twitter"
-  url = "#"
+  url = "https://twitter.com/OOSINTELProject"
 
   [[params.social.list]]
   class = "fab"
   icon = "fa-stack-overflow"
-  url = "#"  
+  url = "#"
 
 [params.footer]
   message = "OSINTEL Project | osintelproject@outlook.com"
