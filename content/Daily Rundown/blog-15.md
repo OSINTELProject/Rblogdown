@@ -13,7 +13,6 @@ Negotiations resumed between Iran and the P5+1 on 29 November in Vienna, but wit
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wien_-_Palais_Coburg.JPG/1200px-Wien_-_Palais_Coburg.JPG)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2659.051057227661!2d16.374524350526617!3d48.20563247912701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d079e21d92331%3A0x417b4c58d40531b5!2sPalais%20Coburg!5e0!3m2!1sen!2sus!4v1639107605667!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 
@@ -29,7 +28,7 @@ https://english.almayadeen.net/news/politics/al-mayadeen:-jcpoa-negotiations-in-
 - Houthi-Salafi Coexistence Agreements: Motives and Future Prospects https://sanaacenter.org/publications/analysis/15839
 - (Late Add) Carneigie ThinkTank Roundtable about GCC post Hydrocarborns. Some discussion on Yemen at [here](https://www.youtube.com/watch?v=l6g2HdbiG4o). 
 
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2659.051057227661!2d16.374524350526617!3d48.20563247912701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d079e21d92331%3A0x417b4c58d40531b5!2sPalais%20Coburg!5e0!3m2!1sen!2sus!4v1639107605667!5m2!1sen!2sus" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 ## Turkey's Inflation Nonsense
