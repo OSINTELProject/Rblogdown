@@ -14,7 +14,7 @@
       
       <guid>https://osintelproject.org/musings/rblogdown-setup/</guid>
       <description>Alright I finally was able to setup Rblogdown with something resembling a type that I wanted. The biggest problem I had was the inability to figure out a decent workflow of things.
-That&amp;rsquo;s the main way to get these things to all talk together. Here&amp;rsquo;s a helpful video tutorial of the setup. My biggest issue I had was with Hugo. They have a bunch of different themes but I didn&amp;rsquo;t like very many of them and I have no html, css, javascript or bootstrap experience.</description>
+RStudioHugoNetlifyThat&amp;rsquo;s the main way to get these things to all talk together. Here&amp;rsquo;s a helpful video tutorial of the setup. My biggest issue I had was with Hugo. They have a bunch of different themes but I didn&amp;rsquo;t like very many of them and I have no html, css, javascript or bootstrap experience.</description>
     </item>
     
   </channel>
