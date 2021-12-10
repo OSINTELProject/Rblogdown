@@ -1,4 +1,6 @@
-itle = "More Pandering"
++++
+
+Title = "More Pandering"
 date = "2021-12-10"
 tags = ["US", "Iran", "Diplomacy", "World News"]
 categories = ["Category 3"]
