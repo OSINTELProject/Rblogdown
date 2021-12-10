@@ -13,6 +13,12 @@ disableKinds = ["taxonomyTerm"]
 [params.introduction]
    text = "This website is my blog. This is to try and display basic writing and analysis skills of current and past events in relation to international affairs."
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params.social]
   [[params.social.list]]
   class = "fab"
