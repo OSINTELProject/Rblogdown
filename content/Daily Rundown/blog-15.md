@@ -27,7 +27,9 @@ https://english.almayadeen.net/news/politics/al-mayadeen:-jcpoa-negotiations-in-
 
 - https://www.reuters.com/world/middle-east/saudi-coalition-targets-hothis-sites-yemens-sanaa-state-tv-2021-11-30/
 - Houthi-Salafi Coexistence Agreements: Motives and Future Prospects https://sanaacenter.org/publications/analysis/15839
-- (Late Add) Carneigie ThinkTank Roundtable about GCC post Hydrocarborns. Some discussion on Yemen at [here](https://www.youtube.com/watch?v=l6g2HdbiG4o). 
+- (Late Add) Carneigie ThinkTank Roundtable about GCC post Hydrocarborns. Some specific discussion about Yemen below. 
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l6g2HdbiG4o?start=2786" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 
