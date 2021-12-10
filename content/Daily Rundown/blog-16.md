@@ -22,7 +22,7 @@ Global media coverage of the first week has not been altogether positive. Diplom
 
 The Sana'a Center has updated its Yemen Review publication with an update on the current Mar'ib offensive.[^1] From the looks of things the Saudi coalition has continued to be pushed back despite an earlier claim of killing aprox 200 enemy fighters.  
 
-![](https://sanaacenter.org/wp-content/uploads/2021/12/Marib-Governorate-Zones-of-Control-November-30-2021-1-2048x1499.png) (Photo taken from Sana'a Center, fn. 1)
+<center><img src="https://sanaacenter.org/wp-content/uploads/2021/12/Marib-Governorate-Zones-of-Control-November-30-2021-1-2048x1499.png" style="zoom:50%;" /></center> (Photo taken from Sana'a Center, fn. 1)
 
 [^1]: https://sanaacenter.org/publications/the-yemen-review/15894#Coalition_falls_back
 
