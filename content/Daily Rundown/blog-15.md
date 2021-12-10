@@ -4,7 +4,6 @@ date = "2021-12-04"
 tags = ["US", "Iran", "Diplomacy", "World News"]
 categories = ["Category 3"]
 description = "JCPOA and some things in the news this week"
-
 +++
 
 ## JCPOA Stuff
