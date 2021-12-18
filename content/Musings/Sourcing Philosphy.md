@@ -1,7 +1,7 @@
 +++
 title = "Sourcing Philosphy"
 date = "2021-12-18"
-tags = ["Sourcing"]
+tags = ["Sourcing", "News", "Bias", "Research"]
 categories = ["Category 1"]
 description = "Since this is OSINTELProject I figured I would share some particular sources I pay attention to."
 
