@@ -17,7 +17,7 @@ All sources I do share via Twitter or from my written works have by read by myse
 
 For a specific topic in general like focusing on JCPOA I do not have designated sources for information aside from periodically checking IAEA reports and looking at global headlines. 
 
-I am sharing an [opml file](https://1drv.ms/u/s!AtY0cenSg7uRbpvXPmUOWQ169Kg) for some of my RSS feeds I look at. Again this is far from perfect because other sources I look at don't have setup RSS feeds and sometimes my sources change. 
+I am sharing an [opml file](https://1drv.ms/u/s!AtY0cenSg7uRbpvXPmUOWQ169Kg) for some of my RSS feeds I look at. Again this is far from perfect because other sources I look at don't have RSS feeds built i and sometimes my sources change. 
 
 
 
