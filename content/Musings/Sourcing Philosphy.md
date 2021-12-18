@@ -1,5 +1,5 @@
 +++
-title = "Sourcing Philosphy"
+title = "Sourcing Philosophy"
 date = "2021-12-18"
 tags = ["Sourcing", "News", "Bias", "Research"]
 categories = ["Category 1"]
@@ -7,7 +7,7 @@ description = "Since this is OSINTELProject I figured I would share some particu
 
 +++
 
-## Philosphy and Disclaimer
+## Philosophy and Disclaimer
 
 One of the intentions of this site is to merge sources from academia, Think Tanks, and journalists. In my estimation this is where OSINT is lacking. Typically I think of as OSINT as more for the cybersecurity nerd worried about  exploitations of zero days and cyber ops. Much of that is done via Twitter analytics by looking at various topics and motioring their web traffic. That's all well and good if you like that stuff but I believe this provides a skewed understanding of a topic. 
 
@@ -17,7 +17,7 @@ All sources I do share via Twitter or from my written works have by read by myse
 
 For a specific topic in general like focusing on JCPOA I do not have designated sources for information aside from periodically checking IAEA reports and looking at global headlines. 
 
-I am sharing an [opml file](https://1drv.ms/u/s!AtY0cenSg7uRbpvXPmUOWQ169Kg) for some of my RSS feeds I look at. Again this is far from perfect because other sources I look at don't have RSS feeds built i and sometimes my sources change. 
+I am sharing an [opml file](https://1drv.ms/u/s!AtY0cenSg7uRbpvXPmUOWQ169Kg) for some of my RSS feeds I look at. Again this is far from perfect because other sources I look at don't have RSS feeds built in and sometimes my sources change. 
 
 
 
