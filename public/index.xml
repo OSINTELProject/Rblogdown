@@ -6,15 +6,24 @@
     <description>Recent content on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sourcing Philosophy</title>
+      <link>https://osintelproject.org/musings/sourcing-philosphy/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintelproject.org/musings/sourcing-philosphy/</guid>
+      <description>Philosophy and Disclaimer One of the intentions of this site is to merge sources from academia, Think Tanks, and journalists. In my estimation this is where OSINT is lacking. Typically I think of as OSINT as more for the cybersecurity nerd worried about exploitations of zero days and cyber ops. Much of that is done via Twitter analytics by looking at various topics and motioring their web traffic. That&amp;rsquo;s all well and good if you like that stuff but I believe this provides a skewed understanding of a topic.</description>
+    </item>
+    
     <item>
       <title>More Pandering</title>
       <link>https://osintelproject.org/daily-rundown/blog-16/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://osintelproject.org/daily-rundown/blog-16/</guid>
-      <description>JCPOA Not a great week by all accounts Global media coverage of the first week has not been altogether positive. Diplomats reconvened yesterday 11/12/2021 for a resumption of talks, largely at the behest of China and Russia.
-Yemen Follow Up The Sana&amp;rsquo;a Center has updated its Yemen Review publication with an update on the current Mar&amp;rsquo;ib offensive.1 From the looks of things the Saudi coalition has continued to be pushed back despite an earlier claim of killing aprox 200 enemy fighters.</description>
+      <description>JCPOA 1. Not a great week by all accounts  Global media coverage of the first week has not been altogether positive. Diplomats reconvened yesterday 11/12/2021 for a resumption of talks, largely at the behest of China and Russia.
+2. More US military and Israeli aggressive proclamations Yemen Follow Up The Sana&amp;rsquo;a Center has updated its Yemen Review publication with an update on the current Mar&amp;rsquo;ib offensive.1 From the looks of things the Saudi coalition has continued to be pushed back despite an earlier claim of killing aprox 200 enemy fighters.</description>
     </item>
     
     <item>
@@ -150,7 +159,7 @@ They really mean the military commander Abu Hafs al-Masri. (Atef)
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://osintelproject.org/musings/reflection-on-drone-strikes/</guid>
-      <description>Most people do not care one bit. It&amp;rsquo;s out of sight, out of mind. There is also not much else to do besides monitoring if you are a civilian. Most people decry drone strikes without actual information and simply see it as an extrajudicial killing or assassination and go about their lives. There is a very specific type of outlet which actually monitors these strikes, and much of it is done on Twitter.</description>
+      <description>Most people go about their lives unaware of this policy. It&amp;rsquo;s out of sight, out of mind. There is also not much else to do besides monitoring if you are a civilian. Most people who do focus on the issue, decry drone strikes without actual information and simply see it as an extrajudicial killing or assassination and go about their lives. There is a very specific type of outlet which actually monitors these strikes, and much of it is done on Twitter.</description>
     </item>
     
     <item>
@@ -216,6 +225,16 @@ I just finished Rajiv Chandrasekaran&amp;rsquo;s book Little America. I&amp;rsqu
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://osintelproject.org/about/</link>
+      <pubDate>Mon, 21 Dec 2020 21:48:51 -0700</pubDate>
+      
+      <guid>https://osintelproject.org/about/</guid>
+      <description>OSINTELProject was created to provide further context to global affairs. There are two gaps in OSINT reporting in my opinion, a good comprehensive list of trusted sources and a synthesis of various sources into a specific topic. Currently this gap has been channeled to focus on recent JCPOA developments.
+This is a static site blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie. OSINTELProject then forked Yihui&amp;rsquo;s theme to suit their own purposes.</description>
+    </item>
+    
+    <item>
       <title>Ethiopian Tigray Insurgency</title>
       <link>https://osintelproject.org/daily-rundown/blog-2/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
@@ -261,15 +280,6 @@ Okay this might be able to work okay, kinda sorta. Testing out the first post.</
       
       <guid>https://osintelproject.org/long-form/blog-1/</guid>
       <description>Emission Trading System Literature Review ​ What is the most effective policy measures for preventing climate change? This singular question has been in the back of leaders&#39; minds ever since the first national UNFCC in 1992. By December 1997, in Kyoto, Japan, the market mechanism of cap-and-trade systems was conceived as the new pathway for reducing greenhouse gas emissions proposed by the United States. Since then, more national and subnational jurisdictions and private sector entities are adopting carbon pricing.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://osintelproject.org/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://osintelproject.org/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
   </channel>

@@ -6,7 +6,16 @@
     <description>Recent content in Sourcing on OSINTEL Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/tags/sourcing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://osintelproject.org/tags/sourcing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sourcing Philosophy</title>
+      <link>https://osintelproject.org/musings/sourcing-philosphy/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://osintelproject.org/musings/sourcing-philosphy/</guid>
+      <description>Philosophy and Disclaimer One of the intentions of this site is to merge sources from academia, Think Tanks, and journalists. In my estimation this is where OSINT is lacking. Typically I think of as OSINT as more for the cybersecurity nerd worried about exploitations of zero days and cyber ops. Much of that is done via Twitter analytics by looking at various topics and motioring their web traffic. That&amp;rsquo;s all well and good if you like that stuff but I believe this provides a skewed understanding of a topic.</description>
+    </item>
+    
     <item>
       <title>How to View a Source</title>
       <link>https://osintelproject.org/daily-rundown/blog-7/</link>
