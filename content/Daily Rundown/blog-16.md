@@ -4,7 +4,7 @@ Title = "More Pandering"
 date = "2021-12-10"
 tags = ["US", "Iran", "Diplomacy", "World News"]
 categories = ["Category 3"]
-description = "JCPOA not proceeding with US"
+description = "JCPOA talks not proceeding positive"
 
 +++
 
@@ -16,7 +16,7 @@ description = "JCPOA not proceeding with US"
 
 Global media coverage of the first week has not been altogether positive. Diplomats reconvened yesterday 11/12/2021 for a resumption of talks, <u>[largely at the behest of China and Russia](https://www.theguardian.com/world/2021/dec/09/iran-nuclear-deal-pulled-back-from-brink-of-collapse-as-talks-resume-in-vienna)</u>. 
 
-### 2. More US military and Israeli aggresive proclamations
+### 2. More US military and Israeli aggressive proclamations
 
 
 

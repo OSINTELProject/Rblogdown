@@ -6,7 +6,7 @@ categories = ["Category 11"]
 description = "No one cares"
 
 +++
-Most people do not care one bit. It's out of sight, out of mind. There is also not much else to do besides monitoring if you are a civilian. Most people decry drone strikes without actual information and simply see it as an extrajudicial killing or assassination and go about their lives. There is a very specific type of outlet which actually monitors these strikes, and much of it is done on Twitter. There is also specific humanitarian organisations that monitor these issues as well as thinktanks. Human Rights Watch and Airwars are notable for this. 
+Most people go about their lives unaware of this policy. It's out of sight, out of mind. There is also not much else to do besides monitoring if you are a civilian. Most people who do focus on the issue, decry drone strikes without actual information and simply see it as an extrajudicial killing or assassination and go about their lives. There is a very specific type of outlet which actually monitors these strikes, and much of it is done on Twitter. There is also specific humanitarian organisations that monitor these issues as well as thinktanks. Human Rights Watch and Airwars are notable for this. 
 
 ### Evaluating the effectiveness of drone strikes. 
 
