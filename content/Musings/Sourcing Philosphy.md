@@ -50,6 +50,7 @@ I've picked the Middle East as the region I specifically look at and this is whe
 1. Instead I look at Al-Monitor, Middle East Eye, [Jadaliyya](https://www.jadaliyya.com), and sometimes the UAE site The National for general region news. 
 2. I use Twitter to look at various active Middle East academics because they typically share news stories and provide quick analysis on maybe some biased reporting. I think this is untapped potential for selectively currating a rounded news feed. I have created a Twitter List of various academcis and this is where I look for critisim of Western policies or problems not generally talked about in the media. Finding contrarian viewpoints is important and hard to do when currating news feeds and this is one of the checks I've tried to implement. 
 3. Middle East Think Tanks. My bread and butter is LSE, Chatham House, Carnegie Endowment for International Peace, and Sana'a Center. There are others I monitor and talks I sometimes watch but I focus on those because I'm familar with them and understand that they are better than others (sometimes) and aware of their donors. 
+3. Also various podasts but this has fallen off as of late. 
 
 ### Topic Specific
 
