@@ -24,7 +24,7 @@ Something that just made the news but must have factored into these discussions 
 
 This agreement has been in the works since 2019 but seems to be making enough progress to start factoring into things at the strategic and diplomatic level. This OSINT news by Dr. Jeffrey Lewis of Middlebury Institute was first seen back in early November and something I missed.[^3] 
 
-![](https://lh5.googleusercontent.com/9QAYv6GUJU2in9SM-pnZ2F-fiImbiO0mUFAdYH2QLe56DYjxbjvxuXy76LTYjRt7GZnlCWGZQInKf5hV8cIuHmmSX6bQ4AQkCtwMg6gUF7cJ4X5uIIhDGQn-Dm2etlRpWlJKzOAO=s0)
+<img src="https://lh5.googleusercontent.com/9QAYv6GUJU2in9SM-pnZ2F-fiImbiO0mUFAdYH2QLe56DYjxbjvxuXy76LTYjRt7GZnlCWGZQInKf5hV8cIuHmmSX6bQ4AQkCtwMg6gUF7cJ4X5uIIhDGQn-Dm2etlRpWlJKzOAO=s0" style="zoom:33%;" />
 
 ![](https://lh6.googleusercontent.com/zZ2LUczIwQyqODmqxQn5uZcCQLX9LbjL0MgCgBLup6CaKyHQIm4fLjWA_ncCult-1MsC7btGqBkltv_LcYQOUlr5NhO3vKyOcVK00PPZZ133nGt7LEfli22kC9_gD2-NOt8pgqcq)
 
@@ -61,7 +61,7 @@ This is a factor in the broader negotiations going up from the bilateral negotat
 
 Russia has amassed over 100000 troops over the past few weeks. The best OSINT source on these troop movements was done by the [Atlantic Council's DFRLab](https://medium.com/dfrlab/russia-continues-to-expand-military-presence-near-ukraine-border-c2d527f58052).[^6]
 
-![](https://miro.medium.com/max/2000/1*A9On6xqSnGBbPWKos4JECg.png)
+<img src="https://miro.medium.com/max/2000/1*A9On6xqSnGBbPWKos4JECg.png" style="zoom:33%;" />
 
 Also some two other sources I've read about on this issue.
 
