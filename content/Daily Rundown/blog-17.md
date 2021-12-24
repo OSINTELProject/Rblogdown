@@ -1,11 +1,9 @@
 +++
-
 Title = "Where to go from here?"
 date = "2021-12-23"
 tags = ["US", "Iran", "Diplomacy", "World News"]
 categories = ["Category 3"]
-description = "\#ViennaTalks to resume on Monday 27 December."
-
+description = "ViennaTalks to resume on Monday 27 December."
 +++
 
 ## JCPOA News
