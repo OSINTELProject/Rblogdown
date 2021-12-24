@@ -4,6 +4,7 @@ date = "2021-12-23"
 tags = ["US", "Iran", "Diplomacy", "World News"]
 categories = ["Category 3"]
 description = "Vienna Talks to resume on Monday 27 December."
+
 +++
 
 ## JCPOA News
@@ -17,6 +18,8 @@ Still, from how things proceed from here I'm quite perplexed. The United States 
 My analysis of how next things might proceed is between two possibilities; some significant breakthrough happens to jumpstart diplomatic efforts or the JCPOA discussions fade from international news and we enter a period similar to 2002-2009.[^1]
 
 Either something gives from either the Iranian or US side to come to terms or the international community will begin to treat Iran like North Korea.
+
+### Saudi Arabia begins making ballistic weapons
 
 Something that just made the news but must have factored into these discussions is China helping Saudi Arabia build a ballistic weapons program.
 
