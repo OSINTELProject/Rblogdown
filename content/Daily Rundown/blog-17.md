@@ -78,7 +78,7 @@ I'm curious to see what next week will bring but my pessimism continues to grow 
 [^1]: This second option was proposed by  by George Perkovich for Carnegie in his piece ""A Ticking Time-Bomb?". Taken from George's third scenario where he summarizes 3 possible outcomes for reaching any nuclear accords with Iran. Best source that simplifies the current state of affairs.  https://carnegie-mec.org/diwan/85988
 [^2]: https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html
 [^3]: https://www.armscontrolwonk.com/archive/1214345/saudi-arabia-producing-ballistic-missiles/
-[^4]: https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html ↩
-[^5]: https://www.tehrantimes.com/news/468360/Why-U-S-creates-a-sense-of-urgency-on-Vienna-talks ↩
+[^4]: https://www.cnn.com/2021/12/23/politics/saudi-ballistic-missiles-china/index.html 
+[^5]: https://www.tehrantimes.com/news/468360/Why-U-S-creates-a-sense-of-urgency-on-Vienna-talks 
 [^6]:  https://www.tehrantimes.com/news/468360/Why-U-S-creates-a-sense-of-urgency-on-Vienna-talks
 [^7]:  Michael Sheldon, “Russia continues to expand military presence near Ukraine border,” Digital Forensic Research Lab (DFRLab), December 17, 2021, https://medium.com/dfrlab/russia-continues-to-expand-military-presence-near-ukraine-border-c2d527f58052.
