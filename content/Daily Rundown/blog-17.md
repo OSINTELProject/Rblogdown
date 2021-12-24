@@ -38,7 +38,7 @@ This agreement has been in the works since 2019 but seems to be making enough pr
 
 The Tehran Times gives an interesting perspective on why there is a sense of urgency by the US. 
 
-> The real reason why Blinken and Malley set deadlines for the talks is that they want to put more pressure on Iran to pocket more concessions while giving nothing viable in exchange. Iran has seriously engaged in the Vienna talks with a 40-strong negotiating team that presented two draft proposals carefully crafted in line with the terms of the JCPOA.[^5]
+> "The real reason why Blinken and Malley set deadlines for the talks is that they want to put more pressure on Iran to pocket more concessions while giving nothing viable in exchange. Iran has seriously engaged in the Vienna talks with a 40-strong negotiating team that presented two draft proposals carefully crafted in line with the terms of the JCPOA."[^5]
 
 Not much more than Iran saying will not concede 10 concessions to the EU's one in that piece. I did want to highlight some of Iran's own position. I don't do this enough and I'm working more to fix this.
 
