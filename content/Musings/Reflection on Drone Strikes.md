@@ -20,6 +20,8 @@ And the [specific report](https://airwars.org/news-and-investigations/pentagon-r
 
 Others go much further making a decent argument but in my opinion lose sight of real world relevance. See perhaps: Satia, Priya. “Drones: A History from the British Middle East.” *Humanity: An International Journal of Human Rights, Humanitarianism, and Development* 5, no. 1 (2014): 1–31. https://doi.org/10.1353/hum.2014.0002.
 
+For additional helpful critisim see [Damage Control: The Unbearable Whiteness of Drone Work](https://www.jadaliyya.com/Details/42483/Damage-Control-the-Unbearable-Whiteness-of-Drone-Work). 
+
 Threading the needle between the two has been a challenge for myself. The best academic resource I've come across is this: 
 
 Mir, Asfandyar. “What Explains Counterterrorism Effectiveness? Evidence from the U.S. Drone War in Pakistan.” *International Security* 43, no. 2 (November 23, 2018): 45–83. https://muse.jhu.edu/article/709434 
