@@ -13,7 +13,7 @@ Well this book took forever to finish. At 631 pages it took some time to read an
 
 Also this book continues to make headlines in thinktank and academic circles.[^1] Interesting is the Israel's role in creating the [Front for the Liberation of Lebanon from Foreigners](https://en.wikipedia.org/wiki/Front_for_the_Liberation_of_Lebanon_from_Foreigners) (FLLF).
 
-Mention of FLLF in Bergan's book is found in index on page 734. Mentions listed in the book are 242-43, 245, 378, 638n. 
+Mention of FLLF in Bergman's book is found in index on page 734. Mentions listed in the book are 242-43, 245, 378, 638n. 
 
 " **The numbers speek for themselves** […]  The number here includes the actions of the Front for the Liberation of Lebanon from Foreigners, a terrorit organization that Israel ran in Lebanon in the years 1980-83, and which on its own attacked many PLO members and Palestinian civilians, as well as the unsuccessful attempts by Operation Salt Fish to kill Arafat, which cost the lives of many civilians. Because much of the material locked away in the intelligence community's safes cannon be accessed, the estimate here is a conservative one. The actual numbers are probably significanly higher" (Pg 638n)
 
