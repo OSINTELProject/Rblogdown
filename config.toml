@@ -25,10 +25,9 @@ disableKinds = ["taxonomyTerm"]
   icon = "fa-linkedin-in"
   url = "#"
 
-[params.social]
   [[params.social.list]]
   class = "fab"
-  icon = "fa-bookmark"
+  icon = "fas fa-bookmark"
   url = "https://osintelproject.substack.com/"
 
 
@@ -44,8 +43,8 @@ disableKinds = ["taxonomyTerm"]
 
   [[params.social.list]]
   class = "fab"
-  icon = "fa-stack-overflow"
-  url = "#"
+  icon = "fas fa-tree"
+  url = "https://linktr.ee/OSINTELProject"
 
 [params.footer]
   message = "OSINTEL Project | osintelproject@outlook.com <img src='https://ta.34353.org/t/e34d9b65-79ba-4109-aa21-904bbc6d3c68' alt=''>"
