@@ -25,6 +25,13 @@ disableKinds = ["taxonomyTerm"]
   icon = "fa-linkedin-in"
   url = "#"
 
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-bookmark"
+  url = "https://osintelproject.substack.com/"
+
+
   [[params.social.list]]
   class = "fab"
   icon = "fa-github"
