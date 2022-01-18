@@ -13,7 +13,7 @@ The 8th round of discussions resumed yesterday as informal meetings.
 
 #### Current Status of Sanction Negotiation
 
-Iran has walked back its demands for all sanctions to be removed. Instead it looks to be asking for its ablity to sell oil on the global market (see last post). 
+Iran has walked back its demands for all sanctions to be removed. Instead it looks to be asking for its ability to sell oil on the global market (see last post). 
 
 ## Turkish Lira at New Low
 
@@ -21,9 +21,9 @@ The Lira reached an all time low to start the year.
 
 
 
-## Tunisia Parliamental Woes
+## Tunisia's Parliamental Woes
 
-*Preface-Not an expert on Tunisia in the slightest but I've been following (off and on) what's been going on with  its president (Kais Saied) abolishing parliament back on 26 July 2021. I've read conflcting reports over the past few months describing this as a coup or a necessary step in addressing his constituents needs. 
+*Preface-Not an expert on Tunisia in the slightest but I've been following (off and on) what's been going on with  its president (Kais Saied) abolishing parliament back on 26 July 2021. I've read conflicting reports over the past few months describing this as a coup or a necessary step in addressing his constituents needs. 
 
 I still don't know what to call the political developments in Tunisia but this article was interesting.[^3] While it is another western pundit labelling President Saied as bad, this continues a trend of describing the past 6 months or so closer to coup status. 
 
