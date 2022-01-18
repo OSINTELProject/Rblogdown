@@ -70,7 +70,7 @@ https://www.reuters.com/world/africa/un-rights-office-decries-ethiopia-air-strik
 
 Article - https://english.alaraby.co.uk/news/iran-diplomats-arrive-saudi-arabia-begin-oic-roles
 
-
+<img src='https://ta.34353.org/t/0333d4c6-06de-48ba-92b2-15e8080bcc3e' alt=''>"
 
 [^1]: I would really encourge more people to read this source. Hadi Kahalzadeh, "Iran After Trump: Can Biden Revive the Nuclear Deal and Does Iran Even Want to?" *Brandeis Middle East Brief*, January 2022,  https://www.brandeis.edu/crown/publications/middle-east-briefs/pdfs/101-200/meb145.pdf
 [^2]: For a more recent discussion of oil on Iran's economy see, Yadollah Dadgar, Zeinab Orooji, " Dutch Disease, Rentier State, and Resource Curse: A Characteristic Triangle and Ultra Challenge in the Iranian Economy." *Iranian Economic Reviw* 24, no. 1, (2020): pp. 129-15 https://ier.ut.ac.ir/article_74477_3d7d942197c65d2c90c073ecba8a6701.pdf
