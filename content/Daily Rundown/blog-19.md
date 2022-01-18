@@ -54,7 +54,7 @@ I have briefly mentioned the Ma'rib Offensive currently underway. Recently the S
 
 The reason oil prices are so high was due to a reported Houthi drone attack at the UAE. 
 
-![](https://pbs.twimg.com/media/FJW29YgVgAU4hFY?format=jpg&name=900x900)
+<center><img src="https://pbs.twimg.com/media/FJW29YgVgAU4hFY?format=jpg&name=900x900" /> </center>
 
 Image from (https://www.thenationalnews.com/uae/2022/01/17/abu-dhabi-blasts-a-sinful-attack-by-houthi-militia-says-senior-uae-official/)
 
