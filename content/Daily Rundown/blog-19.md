@@ -1,6 +1,6 @@
 +++
 Title = "Small Positive News"
-date = "2022-01-04"
+date = "2022-01-17"
 tags = ["US", "Iran", "Diplomacy", "World News"]
 categories = ["Category 3"]
 description = "As the 8th round of JCPOA discussions continue, there has been some slight positivity echoed by some negotiators"
