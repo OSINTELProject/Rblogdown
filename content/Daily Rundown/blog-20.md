@@ -93,7 +93,7 @@ Also see this upcoming interview [on 15 February for more deets](https://www.jad
 
 As Erdogan continues to go his own way regarding economic theory, its international credit rating was downgraded f[rom BB- to B+ with a negative outlook](https://www.fitchratings.com/research/sovereigns/fitch-downgrades-turkey-to-b-outlook-negative-11-02-2022).
 
-
+<img src='https://ta.34353.org/t/8c5ddc46-96cd-4d8d-8837-bf81f7ab26e2' alt=''>"
 
 # Wrap Up 
 
