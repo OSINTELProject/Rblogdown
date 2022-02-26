@@ -101,11 +101,9 @@ So I might as well link a few articles about this portion of the world.
 
    1. I forgot to mention that Ukraine and Russia export a large amount of wheat to Middle Eastern countries. Egypt will take the largest hit, along with Algeria, Tunisia, Libya, Yemen and Lebanon. 
 
-<img src="https://ipfs.io/ipfs/QmV2dQ7HxvccmDv97ojHxhqsc4o3WjVZbG5kAHPB1ZLg35 
+![](https://ipfs.io/ipfs/QmV2dQ7HxvccmDv97ojHxhqsc4o3WjVZbG5kAHPB1ZLg35) 
 
 <br>
-
-
 
 #### Drones and Air Power
 
