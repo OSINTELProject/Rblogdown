@@ -8,7 +8,7 @@ description = "Russia's invasion of Ukraine makes any predictions I have moot. A
 
 +++
 
-Precursor - I have been aware of events between Ukraine and Russia for the past few months but do not have any real expertise in either country. I cannot offer any insight into what the goals of this invasion are or will be. Like most non-experts this is an exercise generating a more informed image of things ([see this Irish Times article that has some helpful context]()). Even with my continued focus on JCPOA developments, I am quite in the dark on how things will play out weven with that now. Also worth reiterating that the Daily Rundown is now more a weekly review and whatever tweets are sent out are the interesting news I have come across. 
+Precursor - I have been aware of events between Ukraine and Russia for the past few months but do not have any real expertise in either country. I cannot offer any insight into what the goals of this invasion are or will be. Like most non-experts this is an exercise generating a more informed image of things ([see this Irish Times article that has some helpful context]()). Even with my continued focus on JCPOA developments, I am quite in the dark on how things will play out even with that now. Also worth reiterating that the Daily Rundown is now more a weekly review and whatever tweets are sent out are the interesting news I have come across. 
 
 ## Ukraine
 
@@ -90,13 +90,18 @@ I found a new article on Iran's post-covid economy.[^3] The most important quote
 So I might as well link a few articles about this portion of the world. 
 
 1. Mark Lynch on Term Middle East.[^5] An interesting exersise by Lynch arguing for a different understanding of this part of the world. US policymakers are still stuck in Cold War paradigm of thinking and less unity among Arab countries. 
+
    1. "Dubai has more in common with Singapore or Hong Kong than with Beirut or  Baghdad. Similarly, Saudi Arabia’s and the UAE’s use of Israeli-made digital surveillance tools mirrors China’s model as much as it does  those of other Arab regimes. Such global ties in economics and  technology may soon come to play as much of a role in these states’  foreign policies as any traditional regional priorities do—pushing them  closer to Asia, say, or providing new incentives for them to manipulate  elections in Western democracies."
 
 1. https://orientxxi.info/magazine/why-the-houthi-drones-struck-abu-dhabi,5378
+
    1. Good article explaining why the Houthi's struck against the UAE and escalating their role. I had the basic question of why engage Abu Dhabi in such an overt way. 
 
 1. https://www.middleeasteye.net/news/russia-ukraine-war-invasion-seven-ways-middle-east-affect 
-   1. I forgot to mention that Ukraine and Russia export a large amount of wheat to Middle Eastern countries. Egypt will take the largest hit, along with Algeria, Tunisia and Libya. 
+
+   1. I forgot to mention that Ukraine and Russia export a large amount of wheat to Middle Eastern countries. Egypt will take the largest hit, along with Algeria, Tunisia, Libya, Yemen and Lebanon. 
+
+<center><img src="https://ipfs.io/ipfs/QmV2dQ7HxvccmDv97ojHxhqsc4o3WjVZbG5kAHPB1ZLg35 /></center>
 
 
 #### Drones and Air Power
@@ -108,13 +113,13 @@ In Short
 - Ongoing advancement in drone mimicks the 1960-70s period of ballistic missle proliferation
 - Drones have not changed any country's strategy, only added another tool. Quote, "*In other words, while the drones have exacerbated the regional arms race, they have not changed the nature of the conflicts.*"
 
-Another article by International Crisis Gruou on Turkey's use of air power against the PKK.[^4]
+Another article by International Crisis Group on Turkey's use of air power against the PKK.[^4]
 
 I found this helpful in understanding the intra-Kurdish factions. Mandıracı states that the KDP and Ankara have grown their economic ties over the past few years. 
 
 That's the main nugget of information I gleaned from this article. Aside from that my knowledge of the PKK and various Kurdish political factions is extremely limited. Doubtless it will make more sense to someone more familiar with ongoing events. 
 
-
+<img src='https://ta.34353.org/t/eba3ed47-e1a2-4faf-98c6-872027c5d43a' alt=''>
 
 **Will continue to update and edit this tomorrow.**
 
@@ -126,6 +131,6 @@ That's the main nugget of information I gleaned from this article. Aside from th
 
 [^4]: Mandıracı, Berkay. "Turkey’s PKK Conflict: A Regional Battleground in Flux." 18 Feb 2022, https://www.crisisgroup.org/europe-central-asia/western-europemediterranean/turkey/turkeys-pkk-conflict-regional-battleground-flux
 
-[^5]: Lynch, Mark. "The End of the Middle East:How an Old Map Distorts a New Reality." *Foreign Affairs* (March/April 2022). https://outline.com/fc7cBE
+[^5]: Lynch, Mark. "The End of the Middle East: How an Old Map Distorts a New Reality." *Foreign Affairs* (March/April 2022). https://outline.com/fc7cBE
 
 [^6]:  Samaan, Jean-Loup, "The Proliferation of Drones in the Middle East Has Done Nothing to Change the Strategic Order There" https://orientxxi.info/magazine/the-proliferation-of-drones-in-the-middle-east-has-done-nothing-to-change-the,5393
