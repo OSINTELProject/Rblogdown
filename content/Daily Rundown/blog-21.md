@@ -103,7 +103,7 @@ So I might as well link a few articles about this portion of the world.
 
 <center><img src="https://ipfs.io/ipfs/QmV2dQ7HxvccmDv97ojHxhqsc4o3WjVZbG5kAHPB1ZLg35 /></center>
 
-
+<br>
 #### Drones and Air Power
 
 An article about drone proliferation in the Middle East might be one of the best I've come across recently.[^6] This might not be a great suprise to anyone following these developments, but one of the most succinct and correct analysis on this trend. 
