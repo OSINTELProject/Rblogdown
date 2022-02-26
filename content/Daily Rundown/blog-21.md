@@ -101,11 +101,11 @@ So I might as well link a few articles about this portion of the world.
 
    1. I forgot to mention that Ukraine and Russia export a large amount of wheat to Middle Eastern countries. Egypt will take the largest hit, along with Algeria, Tunisia, Libya, Yemen and Lebanon. 
 
-![](https://ipfs.io/ipfs/QmV2dQ7HxvccmDv97ojHxhqsc4o3WjVZbG5kAHPB1ZLg35) 
+<center><img src="https://ipfs.io/ipfs/QmV2dQ7HxvccmDv97ojHxhqsc4o3WjVZbG5kAHPB1ZLg35" /></center>
 
 <br>
 
-#### Drones and Air Power
+## Drones and Air Power
 
 An article about drone proliferation in the Middle East might be one of the best I've come across recently.[^6] This might not be a great suprise to anyone following these developments, but one of the most succinct and correct analysis on this trend. 
 
@@ -120,7 +120,7 @@ I found this helpful in understanding the intra-Kurdish factions. Mandıracı st
 
 That's the main nugget of information I gleaned from this article. Aside from that my knowledge of the PKK and various Kurdish political factions is extremely limited. Doubtless it will make more sense to someone more familiar with ongoing events. 
 
-<img src='https://ta.34353.org/t/eba3ed47-e1a2-4faf-98c6-872027c5d43a' alt=''>
+<img src='https://ta.34353.org/t/eba3ed47-e1a2-4faf-98c6-872027c5d43a' alt=''> 
 
 **Will continue to update and edit this tomorrow.**
 
