@@ -93,6 +93,11 @@ So I might as well link a few articles about this portion of the world.
    1. "Dubai has more in common with Singapore or Hong Kong than with Beirut or  Baghdad. Similarly, Saudi Arabia’s and the UAE’s use of Israeli-made digital surveillance tools mirrors China’s model as much as it does  those of other Arab regimes. Such global ties in economics and  technology may soon come to play as much of a role in these states’  foreign policies as any traditional regional priorities do—pushing them  closer to Asia, say, or providing new incentives for them to manipulate  elections in Western democracies."
 
 1. https://orientxxi.info/magazine/why-the-houthi-drones-struck-abu-dhabi,5378
+   1. Good article explaining why the Houthi's struck against the UAE and escalating their role. I had the basic question of why engage Abu Dhabi in such an overt way. 
+
+1. https://www.middleeasteye.net/news/russia-ukraine-war-invasion-seven-ways-middle-east-affect 
+   1. I forgot to mention that Ukraine and Russia export a large amount of wheat to Middle Eastern countries. Egypt will take the largest hit, along with Algeria, Tunisia and Libya. 
+
 
 #### Drones and Air Power
 
