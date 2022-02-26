@@ -51,11 +51,7 @@ https://home.treasury.gov/news/press-releases/jy0608
 
 
 
-Well now Putin has been directly sanctioned by the US by day 2. 
-
-
-
-
+Well now [Putin has been directly sanctioned by the US by day 2](https://home.treasury.gov/news/press-releases/jy0610).  Minister of Defense Sergei Shoigu and Chief of the General Staff of the Russian Armed Forces Valery Gerasimov were also sanctioned.
 
 #### OSINT Tracking
 
