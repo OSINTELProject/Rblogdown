@@ -22,9 +22,10 @@ Things took a dramatic geopolitical turn with Russia's invasion of Ukraine. Just
 
 Here's some recent maps by Janes on the invasion.
 
-<center><img src="https://ipfs.io/ipfs/QmcptwUE2QR1nP6gtTwN1T8bobeaBLjdsvsnQVBe9mVBNs" /></center>
+<center><img src="https://ipfs.io/ipfs/QmcptwUE2QR1nP6gtTwN1T8bobeaBLjdsvsnQVBe9mVBNs" style="zoom:67%;" /></center>
+<br>
 
-<center><img src="https://ipfs.io/ipfs/QmWoqLNfidAigzKE1Ztjz2ZAZWu2RMQZzjapKcRBQvy1uM" /></center>
+<center><img src="https://ipfs.io/ipfs/QmWoqLNfidAigzKE1Ztjz2ZAZWu2RMQZzjapKcRBQvy1uM" style="zoom:40%;" /></center>
 
 
 
