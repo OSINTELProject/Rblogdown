@@ -22,11 +22,11 @@ Things took a dramatic geopolitical turn with Russia's invasion of Ukraine. Just
 
 Here's some recent maps by Janes on the invasion.
 
-<center><img src="https://github.com/OSINTELProject/Images/blob/main/Russian-forces-positions-in-Ukraine-25-February.png?raw=true" width= "700" height="500" style="zoom:90%;"  /></center>
+<center><img src="https://github.com/OSINTELProject/Images/blob/main/Russian-forces-positions-in-Ukraine-25-February.png?raw=true" width= "1000" height="600" style="zoom:90%;"  /></center>
 
 <br>
 
-<center><img src="https://ipfs.io/ipfs/QmWoqLNfidAigzKE1Ztjz2ZAZWu2RMQZzjapKcRBQvy1uM" width="800" height="450"style="zoom:90%;" /></center>
+<center><img src="https://ipfs.io/ipfs/QmWoqLNfidAigzKE1Ztjz2ZAZWu2RMQZzjapKcRBQvy1uM" width="1000" height="550"style="zoom:90%;" /></center>
 
 
 
