@@ -26,7 +26,7 @@ Here's some recent maps by Janes on the invasion.
 
 <br>
 
-<center><img src="https://ipfs.io/ipfs/QmWoqLNfidAigzKE1Ztjz2ZAZWu2RMQZzjapKcRBQvy1uM" width="1000" height="550"style="zoom:90%;" /></center>
+<center><img src="https://github.com/OSINTELProject/Images/blob/main/2000799.jpg?raw=true" width="1000" height="550"style="zoom:90%;" /></center>
 
 
 
@@ -34,7 +34,9 @@ Here's some recent maps by Janes on the invasion.
 
 I have no idea if global finance and trade will forever become fragmented after the dust settles in the years to come. [This might be worth glancing at just]() to see what these folks think. It's not much, but something I found that was made public and a quick read. 
 
-For a longer read please [see this RBC Risk assesment](https://ipfs.io/ipfs/QmUfkM6jqVmqdbM6Kb4nQQLSrmWyt2Ub7ACmewJL9p6TvT) for understanding what prior military engagements do to the market (its a .pdf file from OSINTELProjects on its own IPFS server). Basically it will correct in about 30 days or so, so go long. 
+For a longer read please [see this RBC Risk assesment](https://ipfs.io/ipfs/QmUfkM6jqVmqdbM6Kb4nQQLSrmWyt2Ub7ACmewJL9p6TvT) for understanding what prior military engagements do to the market (its a .pdf file ~~from OSINTELProject on its own IPFS server~~). Basically it will correct in about 30 days or so, so go long. 
+
+<!--**Can't trust IPFS. The decentralized model they portray can't ensure my few files remain live. In the meantime I'm retreating to putting my images in a github repository.**-->
 
 ##### Sanctions
 
@@ -61,7 +63,9 @@ There are a multitude of ways to continue following this issue. I find the LiveU
 
 ## JCPOA News
 
-Before events took a drastic turn this week it was looking like the JCPOA agreement was about to be settled with an interim agreement. Iran and the US had [agreed on a prisoner swap](https://www.reuters.com/world/middle-east/irans-top-diplomat-says-ready-immediate-prisoner-swap-with-us-2022-02-19/) "completely separate from ongoing negotiations." This seemed to be the final element before finalizing the JCPOA discussions
+Before events took a drastic turn this week it was looking like the JCPOA agreement was about to be settled with an interim agreement. Iran and the US had [agreed on a prisoner swap](https://www.reuters.com/world/middle-east/irans-top-diplomat-says-ready-immediate-prisoner-swap-with-us-2022-02-19/) "completely separate from ongoing negotiations." This seemed to be the final element before finalizing the JCPOA discussions. 
+
+[See USIP's Iran Primer and their weekly roundup for an overview](https://iranprimer.usip.org/blog/2022/feb/22/news-digest-week-february-21). 
 
 #### Crude Jumped to over $105 USD on the first day
 
@@ -103,7 +107,7 @@ So I might as well link a few articles about this portion of the world.
 
    1. I forgot to mention that Ukraine and Russia export a large amount of wheat to Middle Eastern countries. Egypt will take the largest hit, along with Algeria, Tunisia, Libya, Yemen and Lebanon. 
 
-<center><img src="https://ipfs.io/ipfs/QmV2dQ7HxvccmDv97ojHxhqsc4o3WjVZbG5kAHPB1ZLg35" /></center>
+<center><img src="https://raw.githubusercontent.com/OSINTELProject/Images/main/graphic_ukraine_0.png" /></center>
 
 <br>
 
@@ -124,7 +128,7 @@ That's the main nugget of information I gleaned from this article. Aside from th
 
 <img src='https://ta.34353.org/t/eba3ed47-e1a2-4faf-98c6-872027c5d43a' alt=''> 
 
-**Will continue to update and edit this tomorrow.**
+
 
 [^1]: SBS News. "The key events that help explain the unfolding Ukraine-Russia crisis." https://www.sbs.com.au/news/the-key-events-that-help-explain-the-unfolding-ukraine-russia-crisis/abc3f874-e6a8-4ebc-9de8-4be39e4a71a9
 
