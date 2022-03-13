@@ -1,7 +1,5 @@
 +++
 
-+++
-
 title = "Sinews of War and Trade: Shipping and Capitalism in the Arabian Peninsula"
 date = "2022-03-13"
 tags = ["Shipping", "Gulf", "Finished Books"]
@@ -50,3 +48,4 @@ This was an aspect I was ignorant of and the fact much of global trade runs thro
 https://www.worldcat.org/title/sinews-of-war-and-trade-shipping-and-capitalism-in-the-arabian-peninsula/oclc/1190809008&referer=brief_results
 
 <img src='https://ta.34353.org/t/a026d445-610b-45d5-8114-85682f9666e5' alt=''> 
+
