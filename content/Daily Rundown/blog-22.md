@@ -102,7 +102,30 @@ Source - https://www.osinteditor.com/general/ukraine-war-uk-defence-intelligence
 
 Source - https://www.aljazeera.com/news/2022/3/16/johnson-meets-saudi-uae-leaders-as-ukraine-war-roils-oil-prices
 
-<br></div><br>
+<br>
+
+1. 1. 
+
+<center><img src="https://raw.githubusercontent.com/OSINTELProject/Images/main/graphic_ukraine_0.png" /></center>
+
+<br>
+
+## Drones and Air Power
+
+An article about drone proliferation in the Middle East might be one of the best I've come across recently.[^6] This might not be a great suprise to anyone following these developments, but one of the most succinct and correct analysis on this trend. 
+
+In Short
+
+- Ongoing advancement in drone mimicks the 1960-70s period of ballistic missle proliferation
+- Drones have not changed any country's strategy, only added another tool. Quote, "*In other words, while the drones have exacerbated the regional arms race, they have not changed the nature of the conflicts.*"
+
+Another article by International Crisis Group on Turkey's use of air power against the PKK.[^4]
+
+I found this helpful in understanding the intra-Kurdish factions. Mandıracı states that the KDP and Ankara have grown their economic ties over the past few years. 
+
+That's the main nugget of information I gleaned from this article. Aside from that my knowledge of the PKK and various Kurdish political factions is extremely limited. Doubtless it will make more sense to someone more familiar with ongoing events. 
+
+<img src='https://ta.34353.org/t/0921035f-e99a-4583-86bc-18b3e7773ae2' alt=''> </div><br>
 
 ## Long Read Recommendation
 
